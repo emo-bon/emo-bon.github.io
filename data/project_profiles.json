@@ -1,12 +1,12 @@
 [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-book",
       "title": "sequencing-profile",
       "url" : "/sequencing-profile",
       "text": "Ro profile for sequencing crates in the emo-bon project."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-book",
       "title": "observatory-profile",
       "url" : "/observatory-profile",
       "text": "Ro profile for observatory crates in the emo-bon project."
