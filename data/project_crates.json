@@ -52,5 +52,11 @@
         "name": "observatory-esc68n-crate",
         "url" : "/observatory-esc68n-crate",
         "text": "This ro-crate is specifically for observatory-esc68n-crate"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "MetaGOflow",
+        "url" : "/MetaGOflow",
+        "text": "This repository contains all CWL descriptions of the MGnify pipeline version 5.0 and their implementation for the Marine Genomic Observatories oriented pipeline, developed in the framework of an EOSC-Life funded project"
     }
 ]
