@@ -1,0 +1,56 @@
+[
+    {
+        "icon": "fa fa-wordpress",
+        "name": "MetaGOflow-Data-Products-RO-Crate",
+        "url" : "/MetaGOflow-Data-Products-RO-Crate",
+        "text": "This ro-crate is specifically for the FAIR-EASE Biodiversity Use Case VRE data products - it does not include all of the MetaGOflow output."
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-bpns-data",
+        "url" : "/observatory-bpns-data",
+        "text": "This ro-crate is specifically for observatory-bpns-data"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "governance-data",
+        "url" : "governance-data",
+        "text": "This ro-crate is specifically for governance-data"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-bpns-data",
+        "url" : "/observatory-bpns-data",
+        "text": "This ro-crate is specifically for observatory-bpns-data"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-bpns-crate",
+        "url" : "/observatory-bpns-crate",
+        "text": "This ro-crate is specifically for observatory-bpns-crate"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-sthvn-crate",
+        "url" : "/observatory-sthvn-crate",
+        "text": "This ro-crate is specifically for observatory-sthvn-crate"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-mbal4-crate",
+        "url" : "/observatory-mbal4-crate",
+        "text": "This ro-crate is specifically for observatory-mbal4-crate"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-bergen-crate",
+        "url" : "/observatory-bergen-crate",
+        "text": "This ro-crate is specifically for observatory-bergen-crate"
+    },
+    {
+        "icon": "fa fa-wordpress",
+        "name": "observatory-esc68n-crate",
+        "url" : "/observatory-esc68n-crate",
+        "text": "This ro-crate is specifically for observatory-esc68n-crate"
+    }
+]

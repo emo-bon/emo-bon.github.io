@@ -1,0 +1,13 @@
+[
+  {
+    "img": "img/contacts/cedric_decruw.jpg",
+    "name": "Cedric Decruw",
+    "job": "Site devop",
+    "email": "cedric.decruw@vliz.be",
+    "ORCID": "0000-0001-6387-5988",
+    "affiliation": {
+        "name": "Flander's Marine Institute (VLIZ)",
+        "url": "https://vliz.be/"
+    }
+  }
+]
