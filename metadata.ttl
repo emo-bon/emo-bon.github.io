@@ -5,16 +5,16 @@
 @prefix da: <https://open-vocabularies.vliz.be/dmbonassistant#> .
 @prefix schema: <http://schema.org/> .
 
-<https://orcid.org/0000-0001-6387-5988>
-    a foaf:Person ;
-    foaf:name "Cedric Decruw" ;
-    foaf:mbox <mailto:cedric.decruw@vliz.be> ;
-    .
-    
 <https://orcid.org>
     a foaf:Person ;
     foaf:name "EMBRC" ;
     foaf:mbox <mailto:secretariat@embrc.eu> ;
+    .
+    
+<https://orcid.org/0000-0001-6387-5988>
+    a foaf:Person ;
+    foaf:name "Cedric Decruw" ;
+    foaf:mbox <mailto:cedric.decruw@vliz.be> ;
     .
     
 
