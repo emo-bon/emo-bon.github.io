@@ -11,6 +11,12 @@
     foaf:mbox <mailto:cedric.decruw@vliz.be> ;
     .
     
+<https://orcid.org>
+    a foaf:Person ;
+    foaf:name "EMBRC" ;
+    foaf:mbox <mailto:secretariat@embrc.eu> ;
+    .
+    
 
 <https://emo-bon.github.io/emo-bon/emo-bon.github.io> rdf:type foaf:Project ;
     dc:title "European Marine Omics Biodiversity Observation Network" ;
