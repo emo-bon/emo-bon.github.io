@@ -1,0 +1,145 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix da: <https://open-vocabularies.vliz.be/dmbonassistant#> .
+@prefix schema: <http://schema.org/> .
+
+<https://orcid.org/0000-0001-6387-5988>
+    a foaf:Person ;
+    foaf:name "Cedric Decruw" ;
+    foaf:mbox <mailto:cedric.decruw@vliz.be> ;
+    .
+    
+
+<https://emo-bon.github.io/emo-bon/emo-bon.github.io> rdf:type foaf:Project ;
+    dc:title "European Marine Omics Biodiversity Observation Network" ;
+    foaf:name "EMO-BON" ;
+    dc:description "European Marine Omics Biodiversity Observation Network, A long-term omics observatory of marine biodiversity and ecosystems supporting policy needs and sustainable use of marine biological resources." ;
+    foaf:logo <https://www.embrc.eu/sites/default/files/2021-09/EMO_BON_LOGO_final_Fond_blanc_lettres_aligne%CC%81es_sans_by_embrc.jpg>;
+    schema:mainEntityOfPage <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
+    schema:hasPart [
+        rdf:type schema:ItemList;
+        schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
+        schema:name "Profiles in European Marine Omics Biodiversity Observation Network" ;
+        schema:itemListElement </sequencing-profile>;
+        schema:itemListElement </observatory-profile>;
+        ],
+    [
+        rdf:type schema:ItemList;
+        schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
+        schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
+        schema:itemListElement </MetaGOflow-Data-Products-RO-Crate>;
+        schema:itemListElement </observatory-bpns-data>;
+        schema:itemListElement <governance-data>;
+        schema:itemListElement </observatory-bpns-data>;
+        schema:itemListElement </observatory-bpns-crate>;
+        schema:itemListElement </observatory-sthvn-crate>;
+        schema:itemListElement </observatory-mbal4-crate>;
+        schema:itemListElement </observatory-bergen-crate>;
+        schema:itemListElement </observatory-esc68n-crate>;
+        ];
+    
+    schema:hasPart <http://www.assembleplus.eu/information-system?module=ref&refid=354999>;
+    
+    schema:hasPart <https://dx.doi.org/10.3897/aca.4.e64760>;
+    
+    schema:hasPart <https://dx.doi.org/10.3897/biss.4.58938>;
+    
+    schema:hasPart <https://dx.doi.org/10.3389/fmars.2020.572680>;
+    
+    schema:hasPart <http://www.assembleplus.eu/information-system?module=ref&refid=311999>;
+    
+    .
+
+<https://www.embrc.eu/sites/default/files/2021-09/EMO_BON_LOGO_final_Fond_blanc_lettres_aligne%CC%81es_sans_by_embrc.jpg> rdf:type foaf:Image 
+    .
+
+
+</sequencing-profile> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "sequencing-profile" ;
+    dc:description "Ro profile for sequencing crates in the emo-bon project." ;
+    schema:item </sequencing-profile> ;
+    .
+
+</observatory-profile> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-profile" ;
+    dc:description "Ro profile for observatory crates in the emo-bon project." ;
+    schema:item </observatory-profile> ;
+    .
+
+</MetaGOflow-Data-Products-RO-Crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "MetaGOflow-Data-Products-RO-Crate" ;
+    dc:description "This ro-crate is specifically for the FAIR-EASE Biodiversity Use Case VRE data products - it does not include all of the MetaGOflow output." ;
+    schema:item </MetaGOflow-Data-Products-RO-Crate> ;
+    .
+</observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-bpns-data" ;
+    dc:description "This ro-crate is specifically for observatory-bpns-data" ;
+    schema:item </observatory-bpns-data> ;
+    .
+<governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "governance-data" ;
+    dc:description "This ro-crate is specifically for governance-data" ;
+    schema:item <governance-data> ;
+    .
+</observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-bpns-data" ;
+    dc:description "This ro-crate is specifically for observatory-bpns-data" ;
+    schema:item </observatory-bpns-data> ;
+    .
+</observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-bpns-crate" ;
+    dc:description "This ro-crate is specifically for observatory-bpns-crate" ;
+    schema:item </observatory-bpns-crate> ;
+    .
+</observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-sthvn-crate" ;
+    dc:description "This ro-crate is specifically for observatory-sthvn-crate" ;
+    schema:item </observatory-sthvn-crate> ;
+    .
+</observatory-mbal4-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-mbal4-crate" ;
+    dc:description "This ro-crate is specifically for observatory-mbal4-crate" ;
+    schema:item </observatory-mbal4-crate> ;
+    .
+</observatory-bergen-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-bergen-crate" ;
+    dc:description "This ro-crate is specifically for observatory-bergen-crate" ;
+    schema:item </observatory-bergen-crate> ;
+    .
+</observatory-esc68n-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "observatory-esc68n-crate" ;
+    dc:description "This ro-crate is specifically for observatory-esc68n-crate" ;
+    schema:item </observatory-esc68n-crate> ;
+    .
+
+<http://www.assembleplus.eu/information-system?module=ref&refid=354999> rdf:type schema:CreativeWork ;
+    dc:title "Genetic methods in environmental monitoring: Early detection and monitoring of non-indigenous species based on DNA" ;
+    dc:description "Sundberg, P., et al., Report for the Swedish Agency for Marine and Water Management report, 4 (2022)" ;
+    schema:url <http://www.assembleplus.eu/information-system?module=ref&refid=354999> ;
+    .
+
+<https://dx.doi.org/10.3897/aca.4.e64760> rdf:type schema:CreativeWork ;
+    dc:title "Artificial Reef Monitoring Structures (ARMS) providing insights on hard substrate biodiversity and community structure of the Eastern Mediterranean Sea" ;
+    dc:description "Pavloudi, C., et al., Poster presenting the ARMS-MBON project, ARPHA Conference Abstracts (Pensoft Publishers), 4 (2021)" ;
+    schema:url <https://dx.doi.org/10.3897/aca.4.e64760> ;
+    .
+
+<https://dx.doi.org/10.3897/biss.4.58938> rdf:type schema:CreativeWork ;
+    dc:title "Genomics Observatory use-case: the challenge to standardise image and sequence data to Darwin Core format" ;
+    dc:description "Exter, K., et al. Presentation at an online conference of the Biodiversity Information Science and Standards, 4 (2020)" ;
+    schema:url <https://dx.doi.org/10.3897/biss.4.58938> ;
+    .
+
+<https://dx.doi.org/10.3389/fmars.2020.572680> rdf:type schema:CreativeWork ;
+    dc:title "A Marine Biodiversity Observation Network for Genetic Monitoring of Hard-Bottom Communities (ARMS-MBON)" ;
+    dc:description "Obst, M., et al. An introductions to the ARMS-MBON project: its aims, its data, its network, its science. Frontiers in Marine Science, 7 (2020)" ;
+    schema:url <https://dx.doi.org/10.3389/fmars.2020.572680> ;
+    .
+
+<http://www.assembleplus.eu/information-system?module=ref&refid=311999> rdf:type schema:CreativeWork ;
+    dc:title "Artificial Reef Monitoring Structures (ARMS) providing insights on the marine biodiversity and community structure" ;
+    dc:description "Pavloudi, C., et al. Poster presenting the ARMS-MBON project (2019)" ;
+    schema:url <http://www.assembleplus.eu/information-system?module=ref&refid=311999> ;
+    .
