@@ -9,5 +9,12 @@
         "name": "Flander's Marine Institute (VLIZ)",
         "url": "https://vliz.be/"
     }
+  },
+  {
+    "img": "img/contacts/embrc.jpg",
+    "name": "EMBRC",
+    "job": "Parent Project",
+    "email": "secretariat@embrc.eu"
   }
+  
 ]
