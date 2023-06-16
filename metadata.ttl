@@ -29,7 +29,7 @@
         schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
         schema:name "Profiles in European Marine Omics Biodiversity Observation Network" ;
         schema:itemListElement </sequencing-profile>;
-        schema:itemListElement </observatory-profile>;
+        schema:itemListElement </observatory-profile/draft>;
         ],
     [
         rdf:type schema:ItemList;
@@ -69,10 +69,10 @@
     schema:item </sequencing-profile> ;
     .
 
-</observatory-profile> rdf:type schema:ListItem, schema:CreativeWork ;
+</observatory-profile/draft> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-profile" ;
     dc:description "Ro profile for observatory crates in the emo-bon project." ;
-    schema:item </observatory-profile> ;
+    schema:item </observatory-profile/draft> ;
     .
 
 </MetaGOflow-Data-Products-RO-Crate> rdf:type schema:ListItem, schema:CreativeWork ;
