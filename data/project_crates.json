@@ -2,61 +2,71 @@
     {
         "icon": "fa fa-archive",
         "name": "MetaGOflow-Data-Products-RO-Crate",
-        "url" : "/MetaGOflow-Data-Products-RO-Crate",
+        "crateurl" : "/MetaGOflow-Data-Products-RO-Crate",
+        "url" : "https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate",
         "text": "This ro-crate is specifically for the FAIR-EASE Biodiversity Use Case VRE data products - it does not include all of the MetaGOflow output."
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-bpns-data",
-        "url" : "/observatory-bpns-data",
+        "crateurl" : "/observatory-bpns-data",
+        "url" : "https://github.com/emo-bon/observatory-bpns-data",
         "text": "This ro-crate is specifically for observatory-bpns-data"
     },
     {
         "icon": "fa fa-archive",
         "name": "governance-data",
-        "url" : "governance-data",
+        "crateurl" : "governance-data",
+        "url" : "https://github.com/emo-bon/governance-data",
         "text": "This ro-crate is specifically for governance-data"
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-bpns-data",
-        "url" : "/observatory-bpns-data",
+        "crateurl" : "/observatory-bpns-data",
+        "url" : "https://github.com/emo-bon/observatory-bpns-data",
         "text": "This ro-crate is specifically for observatory-bpns-data"
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-bpns-crate",
-        "url" : "/observatory-bpns-crate",
+        "crateurl" : "/observatory-bpns-crate",
+        "url" : "https://github.com/emo-bon/observatory-bpns-crate",
         "text": "This ro-crate is specifically for observatory-bpns-crate"
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-sthvn-crate",
-        "url" : "/observatory-sthvn-crate",
+        "crateurl" : "/observatory-sthvn-crate",
+        "url" : "https://github.com/emo-bon/observatory-sthvn-crate",
         "text": "This ro-crate is specifically for observatory-sthvn-crate"
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-mbal4-crate",
-        "url" : "/observatory-mbal4-crate",
+        "crateurl" : "/observatory-mbal4-crate",
+        "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
         "text": "This ro-crate is specifically for observatory-mbal4-crate"
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-bergen-crate",
-        "url" : "/observatory-bergen-crate",
+        "crateurl" : "/observatory-bergen-crate",
+        "url" : "https://github.com/emo-bon/observatory-bergen-crate",
         "text": "This ro-crate is specifically for observatory-bergen-crate"
     },
     {
         "icon": "fa fa-archive",
         "name": "observatory-esc68n-crate",
-        "url" : "/observatory-esc68n-crate",
+        "crateurl" : "/observatory-esc68n-crate",
+        "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
         "text": "This ro-crate is specifically for observatory-esc68n-crate"
     },
     {
         "icon": "fa fa-archive",
         "name": "MetaGOflow",
-        "url" : "/MetaGOflow",
+        "crateurl" : "/MetaGOflow",
+        "url" : "https://github.com/emo-bon/MetaGOflow",
         "text": "This repository contains all CWL descriptions of the MGnify pipeline version 5.0 and their implementation for the Marine Genomic Observatories oriented pipeline, developed in the framework of an EOSC-Life funded project"
     }
 ]
