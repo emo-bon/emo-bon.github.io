@@ -35,16 +35,16 @@
         rdf:type schema:ItemList;
         schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
         schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
-        schema:itemListElement </MetaGOflow-Data-Products-RO-Crate>;
-        schema:itemListElement </observatory-bpns-data>;
-        schema:itemListElement <governance-data>;
-        schema:itemListElement </observatory-bpns-data>;
-        schema:itemListElement </observatory-bpns-crate>;
-        schema:itemListElement </observatory-sthvn-crate>;
-        schema:itemListElement </observatory-mbal4-crate>;
-        schema:itemListElement </observatory-bergen-crate>;
-        schema:itemListElement </observatory-esc68n-crate>;
-        schema:itemListElement </MetaGOflow>;
+        schema:itemListElement <https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-bpns-data>;
+        schema:itemListElement <https://github.com/emo-bon/governance-data>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-bpns-data>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-bpns-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-sthvn-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-mbal4-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-bergen-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-esc68n-crate>;
+        schema:itemListElement <https://github.com/emo-bon/MetaGOflow>;
         ];
     
     schema:hasPart <http://www.assembleplus.eu/information-system?module=ref&refid=354999>;
@@ -75,55 +75,55 @@
     schema:item </observatory-profile/draft> ;
     .
 
-</MetaGOflow-Data-Products-RO-Crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "MetaGOflow-Data-Products-RO-Crate" ;
     dc:description "This ro-crate is specifically for the FAIR-EASE Biodiversity Use Case VRE data products - it does not include all of the MetaGOflow output." ;
-    schema:item </MetaGOflow-Data-Products-RO-Crate> ;
+    schema:item <https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate> ;
     .
-</observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-bpns-data" ;
     dc:description "This ro-crate is specifically for observatory-bpns-data" ;
-    schema:item </observatory-bpns-data> ;
+    schema:item <https://github.com/emo-bon/observatory-bpns-data> ;
     .
-<governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "governance-data" ;
     dc:description "This ro-crate is specifically for governance-data" ;
-    schema:item <governance-data> ;
+    schema:item <https://github.com/emo-bon/governance-data> ;
     .
-</observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-bpns-data" ;
     dc:description "This ro-crate is specifically for observatory-bpns-data" ;
-    schema:item </observatory-bpns-data> ;
+    schema:item <https://github.com/emo-bon/observatory-bpns-data> ;
     .
-</observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-bpns-crate" ;
     dc:description "This ro-crate is specifically for observatory-bpns-crate" ;
-    schema:item </observatory-bpns-crate> ;
+    schema:item <https://github.com/emo-bon/observatory-bpns-crate> ;
     .
-</observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-sthvn-crate" ;
     dc:description "This ro-crate is specifically for observatory-sthvn-crate" ;
-    schema:item </observatory-sthvn-crate> ;
+    schema:item <https://github.com/emo-bon/observatory-sthvn-crate> ;
     .
-</observatory-mbal4-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-mbal4-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-mbal4-crate" ;
     dc:description "This ro-crate is specifically for observatory-mbal4-crate" ;
-    schema:item </observatory-mbal4-crate> ;
+    schema:item <https://github.com/emo-bon/observatory-mbal4-crate> ;
     .
-</observatory-bergen-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-bergen-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-bergen-crate" ;
     dc:description "This ro-crate is specifically for observatory-bergen-crate" ;
-    schema:item </observatory-bergen-crate> ;
+    schema:item <https://github.com/emo-bon/observatory-bergen-crate> ;
     .
-</observatory-esc68n-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/observatory-esc68n-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-esc68n-crate" ;
     dc:description "This ro-crate is specifically for observatory-esc68n-crate" ;
-    schema:item </observatory-esc68n-crate> ;
+    schema:item <https://github.com/emo-bon/observatory-esc68n-crate> ;
     .
-</MetaGOflow> rdf:type schema:ListItem, schema:CreativeWork ;
+<https://github.com/emo-bon/MetaGOflow> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "MetaGOflow" ;
     dc:description "This repository contains all CWL descriptions of the MGnify pipeline version 5.0 and their implementation for the Marine Genomic Observatories oriented pipeline, developed in the framework of an EOSC-Life funded project" ;
-    schema:item </MetaGOflow> ;
+    schema:item <https://github.com/emo-bon/MetaGOflow> ;
     .
 
 <http://www.assembleplus.eu/information-system?module=ref&refid=354999> rdf:type schema:CreativeWork ;
