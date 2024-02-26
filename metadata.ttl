@@ -122,12 +122,12 @@
 
 <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
     dc:title "EMO BON Handbook (2021)" ;
-    dc:description "Note hat the latest version can always be found on the [EMO BON website](https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook)" ;
+    dc:description "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook)" ;
     schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> ;
     .
 
 < https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> rdf:type schema:CreativeWork ;
     dc:title "EMO BON Data Management Plan (2022)" ;
-    dc:description "Note that the latest version can always be found on the [EMO BON website](https://www.embrc.eu/services/emo-bon)" ;
+    dc:description "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
     schema:url < https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> ;
     .
