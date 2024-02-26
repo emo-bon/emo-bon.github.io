@@ -14,11 +14,11 @@ Samples are collected at the participating observatories every two months and pr
 
 EMO BON data are managed and published via the EMO BON [GitHub space](https://github.com/emo-bon), which sits behind this webpage. The sampling logsheets from each station are harvested into GH, undergo a quality control, and then are combined, semantically annotated, and published in CSV and RDF formats. Each repository is described and wrapped up as a [Ro-Crate](https://www.researchobject.org/ro-crate/). All logsheet data are open access. 
 
-As the sequences are produced by the sequencing facility, they will be archived in ENA under [project PRJEB51688](https://www.ebi.ac.uk/ena/browser/view/PRJEB51688), after an embargo period of 6 months. The ENA accession numbers will be made available on GH also. 
+As the sequences are produced by the sequencing facility, they will be archived in ENA under [project PRJEB51688](https://www.ebi.ac.uk/ena/browser/view/PRJEB51688), after an embargo period of 6 months. The ENA accession numbers will be made available on the  EMO BON GH also. 
 
 **EMO BON processing**
 
-Currently, all metagenomics from EMO BON are to be processed through the [MetaGOflow pipeline](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054). The outputs from this processing are also stored in the EMO-BON GH space. 
+Currently, all metagenomics from EMO BON are to be processed through the [MetaGOflow pipeline](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054). The outputs from this processing are also stored in our EMO-BON GH. 
 
 **Navigating this EMO BON space**
 
