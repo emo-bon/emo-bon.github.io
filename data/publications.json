@@ -1,13 +1,13 @@
 [
     {
         "title": "EMO BON Handbook (2021)",
-        "text": "Note hat the latest version can always be found on the [EMO BON website](https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook)",
-        "img": "/img/publications/4.jpg",
+        "text": "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook)",
+        "img": "/img/publications/4.jpg", 
         "link": "https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf"
     },
     {
         "title": "EMO BON Data Management Plan (2022)",
-        "text": "Note that the latest version can always be found on the [EMO BON website](https://www.embrc.eu/services/emo-bon)",
+        "text": "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)",
         "img": "/img/publications/4.jpg",
         "link": " https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf"
     }
