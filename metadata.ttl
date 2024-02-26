@@ -47,15 +47,9 @@
         schema:itemListElement <https://github.com/emo-bon/MetaGOflow>;
         ];
     
-    schema:hasPart <http://www.assembleplus.eu/information-system?module=ref&refid=354999>;
+    schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
     
-    schema:hasPart <https://dx.doi.org/10.3897/aca.4.e64760>;
-    
-    schema:hasPart <https://dx.doi.org/10.3897/biss.4.58938>;
-    
-    schema:hasPart <https://dx.doi.org/10.3389/fmars.2020.572680>;
-    
-    schema:hasPart <http://www.assembleplus.eu/information-system?module=ref&refid=311999>;
+    schema:hasPart < https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
     
     .
 
@@ -126,32 +120,14 @@
     schema:item <https://github.com/emo-bon/MetaGOflow> ;
     .
 
-<http://www.assembleplus.eu/information-system?module=ref&refid=354999> rdf:type schema:CreativeWork ;
-    dc:title "Genetic methods in environmental monitoring: Early detection and monitoring of non-indigenous species based on DNA" ;
-    dc:description "Sundberg, P., et al., Report for the Swedish Agency for Marine and Water Management report, 4 (2022)" ;
-    schema:url <http://www.assembleplus.eu/information-system?module=ref&refid=354999> ;
+<https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
+    dc:title "EMO BON Handbook (2021)" ;
+    dc:description "Note hat the latest version can always be found on the [EMO BON website](https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook)" ;
+    schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> ;
     .
 
-<https://dx.doi.org/10.3897/aca.4.e64760> rdf:type schema:CreativeWork ;
-    dc:title "Artificial Reef Monitoring Structures (ARMS) providing insights on hard substrate biodiversity and community structure of the Eastern Mediterranean Sea" ;
-    dc:description "Pavloudi, C., et al., Poster presenting the ARMS-MBON project, ARPHA Conference Abstracts (Pensoft Publishers), 4 (2021)" ;
-    schema:url <https://dx.doi.org/10.3897/aca.4.e64760> ;
-    .
-
-<https://dx.doi.org/10.3897/biss.4.58938> rdf:type schema:CreativeWork ;
-    dc:title "Genomics Observatory use-case: the challenge to standardise image and sequence data to Darwin Core format" ;
-    dc:description "Exter, K., et al. Presentation at an online conference of the Biodiversity Information Science and Standards, 4 (2020)" ;
-    schema:url <https://dx.doi.org/10.3897/biss.4.58938> ;
-    .
-
-<https://dx.doi.org/10.3389/fmars.2020.572680> rdf:type schema:CreativeWork ;
-    dc:title "A Marine Biodiversity Observation Network for Genetic Monitoring of Hard-Bottom Communities (ARMS-MBON)" ;
-    dc:description "Obst, M., et al. An introductions to the ARMS-MBON project: its aims, its data, its network, its science. Frontiers in Marine Science, 7 (2020)" ;
-    schema:url <https://dx.doi.org/10.3389/fmars.2020.572680> ;
-    .
-
-<http://www.assembleplus.eu/information-system?module=ref&refid=311999> rdf:type schema:CreativeWork ;
-    dc:title "Artificial Reef Monitoring Structures (ARMS) providing insights on the marine biodiversity and community structure" ;
-    dc:description "Pavloudi, C., et al. Poster presenting the ARMS-MBON project (2019)" ;
-    schema:url <http://www.assembleplus.eu/information-system?module=ref&refid=311999> ;
+< https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> rdf:type schema:CreativeWork ;
+    dc:title "EMO BON Data Management Plan (2022)" ;
+    dc:description "Note that the latest version can always be found on the [EMO BON website](https://www.embrc.eu/services/emo-bon)" ;
+    schema:url < https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> ;
     .
