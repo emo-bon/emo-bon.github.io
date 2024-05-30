@@ -2,140 +2,140 @@
     {
         "icon": "fa fa-archive",
         "name": "BPNS observatory",
-        "crateurl" : "/observatory-bpns-crate/latest/#./",
+        "crateurl" : "/observatory-bpns-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
         "text": "EMO BON logsheets from BPNS"
     },
    {
         "icon": "fa fa-archive",
         "name": "LMO observatory",
-        "crateurl" : "/observatory-lmo-crate/latest/#./",
+        "crateurl" : "/observatory-lmo-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-lmo-crate",
         "text": "EMO BON logsheets from LMO"
     },
    {
         "icon": "fa fa-archive",
         "name": "UMF observatory",
-        "crateurl" : "/observatory-umf-crate/latest/#./",
+        "crateurl" : "/observatory-umf-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-umf-crate",
         "text": "EMO BON logsheets from UMF"
     },
      {
         "icon": "fa fa-archive",
         "name": "IUIEilat observatory",
-        "crateurl" : "/observatory-iuieilat-crate/latest/#./",
+        "crateurl" : "/observatory-iuieilat-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-iuieilat-crate",
         "text": "EMO BON logsheets from IUIEilat"
     },
    {
         "icon": "fa fa-archive",
         "name": "AAOT observatory",
-        "crateurl" : "/observatory-aaot-crate/latest/#./",
+        "crateurl" : "/observatory-aaot-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-aaot-crate",
         "text": "EMO BON logsheets from AAOT"
     },
      {
         "icon": "fa fa-archive",
         "name": "OSD74 observatory",
-        "crateurl" : "/observatory-osd74-crate/latest/#./",
+        "crateurl" : "/observatory-osd74-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-osd74-crate",
         "text": "EMO BON logsheets from OSD74"
     },
      {
         "icon": "fa fa-archive",
         "name": "PIEGetxo observatory",
-        "crateurl" : "/observatory-piegetxo-crate/latest/#./",
+        "crateurl" : "/observatory-piegetxo-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-piegetxo-crate",
         "text": "EMO BON logsheets from PIEGetzo"
     },
      {
         "icon": "fa fa-archive",
         "name": "EMT21 observatory",
-        "crateurl" : "/observatory-emt21-crate/latest/#./",
+        "crateurl" : "/observatory-emt21-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-emt21-crate",
         "text": "EMO BON logsheets from EMT21"
     },
      {
         "icon": "fa fa-archive",
         "name": "OOB observatory",
-        "crateurl" : "/observatory-oob-crate/latest/#./",
+        "crateurl" : "/observatory-oob-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-oob-crate",
         "text": "EMO BON logsheets from OOB"
     },
      {
         "icon": "fa fa-archive",
         "name": "VB observatory",
-        "crateurl" : "/observatory-vb-crate/latest/#./",
+        "crateurl" : "/observatory-vb-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-vb-crate",
         "text": "EMO BON logsheets from VB"
     },
     {
         "icon": "fa fa-archive",
         "name": "ROSKOGO observatory",
-        "crateurl" : "/observatory-roskogo-crate/latest/#./",
+        "crateurl" : "/observatory-roskogo-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-roskogo-crate",
         "text": "EMO BON logsheets from ROSKOGO"
     },
    {
         "icon": "fa fa-archive",
         "name": "HCMR-1 observatory",
-        "crateurl" : "/observatory-hcmr-1-crate/latest/#./",
+        "crateurl" : "/observatory-hcmr-1-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-hcmr-1-crate",
         "text": "EMO BON logsheets from HCMR-1"
     },
    {
         "icon": "fa fa-archive",
         "name": "NRMCB observatory",
-        "crateurl" : "/observatory-nrmcb-crate/latest/#./",
+        "crateurl" : "/observatory-nrmcb-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-nrmcb-crate",
         "text": "EMO BON logsheets from NRMCB"
     },
    {
         "icon": "fa fa-archive",
         "name": "RFormosa observatory",
-        "crateurl" : "/observatory-rformosa-crate/latest/#./",
+        "crateurl" : "/observatory-rformosa-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-rformosa-crate",
         "text": "EMO BON logsheets from RFormosa"
     },
     {
         "icon": "fa fa-archive",
         "name": "STHVN observatory",
-        "crateurl" : "/observatory-sthvn-crate/latest/#./",
+        "crateurl" : "/observatory-sthvn-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-sthvn-crate",
         "text": "EMO BON logsheets from STHVN"
     },
     {
         "icon": "fa fa-archive",
         "name": "MBAL4 observatory",
-        "crateurl" : "/observatory-mbal4-crate/latest/#./",
+        "crateurl" : "/observatory-mbal4-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
         "text": "EMO BON logsheets from BMBAL4"
     },
     {
         "icon": "fa fa-archive",
         "name": "Bergen observatory",
-        "crateurl" : "/observatory-bergen-crate/latest/#./",
+        "crateurl" : "/observatory-bergen-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-bergen-crate",
         "text": "EMO BON logsheets from Bergen"
     },
     {
         "icon": "fa fa-archive",
         "name": "ESC68N obbservatory",
-        "crateurl" : "/observatory-esc68n-crate/latest/#./",
+        "crateurl" : "/observatory-esc68n-crate/latest/#/",
         "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
         "text": "EMO BON logsheets from ESC68N"
     },
     {
         "icon": "fa fa-archive",
         "name": "Governance data",
-        "crateurl" : "governance-data/latest/#./",
+        "crateurl" : "governance-data/latest/#/",
         "url" : "https://github.com/emo-bon/governance-data",
         "text": "EMO BON governance data"
     },
     {
         "icon": "fa fa-archive",
         "name": "Sequencing data",
-        "crateurl" : "sequencing-data/latest/#./",
+        "crateurl" : "sequencing-data/latest/#/",
         "url" : "https://github.com/emo-bon/sequencing-data",
         "text": "Sequencing-related metadata"
     }
