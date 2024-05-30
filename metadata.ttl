@@ -36,6 +36,19 @@
         schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
         schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
         schema:itemListElement <https://github.com/emo-bon/observatory-bpns-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-lmo-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-umf-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-iuieilat-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-aaot-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-osd74-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-piegetxo-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-emt21-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-oob-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-vb-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-roskogo-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-hcmr-1-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-nrmcb-crate>;
+        schema:itemListElement <https://github.com/emo-bon/observatory-rformosa-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-sthvn-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-mbal4-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-bergen-crate>;
@@ -70,6 +83,71 @@
     dc:title "BPNS observatory" ;
     dc:description "EMO BON logsheets from BPNS" ;
     schema:item <https://github.com/emo-bon/observatory-bpns-crate> ;
+    .
+<https://github.com/emo-bon/observatory-lmo-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "LMO observatory" ;
+    dc:description "EMO BON logsheets from LMO" ;
+    schema:item <https://github.com/emo-bon/observatory-lmo-crate> ;
+    .
+<https://github.com/emo-bon/observatory-umf-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "UMF observatory" ;
+    dc:description "EMO BON logsheets from UMF" ;
+    schema:item <https://github.com/emo-bon/observatory-umf-crate> ;
+    .
+<https://github.com/emo-bon/observatory-iuieilat-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "IUIEilat observatory" ;
+    dc:description "EMO BON logsheets from IUIEilat" ;
+    schema:item <https://github.com/emo-bon/observatory-iuieilat-crate> ;
+    .
+<https://github.com/emo-bon/observatory-aaot-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "AAOT observatory" ;
+    dc:description "EMO BON logsheets from AAOT" ;
+    schema:item <https://github.com/emo-bon/observatory-aaot-crate> ;
+    .
+<https://github.com/emo-bon/observatory-osd74-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "OSD74 observatory" ;
+    dc:description "EMO BON logsheets from OSD74" ;
+    schema:item <https://github.com/emo-bon/observatory-osd74-crate> ;
+    .
+<https://github.com/emo-bon/observatory-piegetxo-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "PIEGetxo observatory" ;
+    dc:description "EMO BON logsheets from PIEGetzo" ;
+    schema:item <https://github.com/emo-bon/observatory-piegetxo-crate> ;
+    .
+<https://github.com/emo-bon/observatory-emt21-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "EMT21 observatory" ;
+    dc:description "EMO BON logsheets from EMT21" ;
+    schema:item <https://github.com/emo-bon/observatory-emt21-crate> ;
+    .
+<https://github.com/emo-bon/observatory-oob-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "OOB observatory" ;
+    dc:description "EMO BON logsheets from OOB" ;
+    schema:item <https://github.com/emo-bon/observatory-oob-crate> ;
+    .
+<https://github.com/emo-bon/observatory-vb-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "VB observatory" ;
+    dc:description "EMO BON logsheets from VB" ;
+    schema:item <https://github.com/emo-bon/observatory-vb-crate> ;
+    .
+<https://github.com/emo-bon/observatory-roskogo-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "ROSKOGO observatory" ;
+    dc:description "EMO BON logsheets from ROSKOGO" ;
+    schema:item <https://github.com/emo-bon/observatory-roskogo-crate> ;
+    .
+<https://github.com/emo-bon/observatory-hcmr-1-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "HCMR-1 observatory" ;
+    dc:description "EMO BON logsheets from HCMR-1" ;
+    schema:item <https://github.com/emo-bon/observatory-hcmr-1-crate> ;
+    .
+<https://github.com/emo-bon/observatory-nrmcb-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "NRMCB observatory" ;
+    dc:description "EMO BON logsheets from NRMCB" ;
+    schema:item <https://github.com/emo-bon/observatory-nrmcb-crate> ;
+    .
+<https://github.com/emo-bon/observatory-rformosa-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "RFormosa observatory" ;
+    dc:description "EMO BON logsheets from RFormosa" ;
+    schema:item <https://github.com/emo-bon/observatory-rformosa-crate> ;
     .
 <https://github.com/emo-bon/observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "STHVN observatory" ;
