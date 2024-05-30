@@ -2,7 +2,7 @@
     {
         "icon": "fa fa-archive",
         "name": "BPNS observatory",
-        "crateurl" : "/observatory-bpns-crate/#./"
+        "crateurl" : "/observatory-bpns-crate/#./",
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
         "text": "EMO BON logsheets from BPNS"
     },
