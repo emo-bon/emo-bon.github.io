@@ -68,37 +68,37 @@
 
 <https://github.com/emo-bon/observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "BPNS observatory" ;
-    dc:description "This ro-crate is specifically for emobon logsheets from BPNS" ;
+    dc:description "EMO BON logsheets from BPNS" ;
     schema:item <https://github.com/emo-bon/observatory-bpns-crate> ;
     .
 <https://github.com/emo-bon/observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "STHVN observatory" ;
-    dc:description "This ro-crate is specifically for emobon logsheets from STHVN" ;
+    dc:description "EMO BON logsheets from STHVN" ;
     schema:item <https://github.com/emo-bon/observatory-sthvn-crate> ;
     .
 <https://github.com/emo-bon/observatory-mbal4-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "MBAL4 observatory" ;
-    dc:description "This ro-crate is specifically for emobon logsheets from BMBAL4" ;
+    dc:description "EMO BON logsheets from BMBAL4" ;
     schema:item <https://github.com/emo-bon/observatory-mbal4-crate> ;
     .
 <https://github.com/emo-bon/observatory-bergen-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Bergen observatory" ;
-    dc:description "This ro-crate is specifically for emobon logsheets from Bergen" ;
+    dc:description "EMO BON logsheets from Bergen" ;
     schema:item <https://github.com/emo-bon/observatory-bergen-crate> ;
     .
 <https://github.com/emo-bon/observatory-esc68n-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "ESC68N obbservatory" ;
-    dc:description "This ro-crate is specifically for emobon logsheets from ESC68N" ;
+    dc:description "EMO BON logsheets from ESC68N" ;
     schema:item <https://github.com/emo-bon/observatory-esc68n-crate> ;
     .
 <https://github.com/emo-bon/governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Governance data" ;
-    dc:description "This ro-crate is specifically for EMO BON governance data" ;
+    dc:description "EMO BON governance data" ;
     schema:item <https://github.com/emo-bon/governance-data> ;
     .
 <https://github.com/emo-bon/sequencing-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Sequencing data" ;
-    dc:description "This ro-crate is specifically for sequencing-related metadata" ;
+    dc:description "Sequencing-related metadata" ;
     schema:item <https://github.com/emo-bon/sequencing-data> ;
     .
 
