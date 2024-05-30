@@ -36,9 +36,7 @@
         schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
         schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
         schema:itemListElement <https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-bpns-data>;
         schema:itemListElement <https://github.com/emo-bon/governance-data>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-bpns-data>;
         schema:itemListElement <https://github.com/emo-bon/observatory-bpns-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-sthvn-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-mbal4-crate>;
@@ -74,20 +72,10 @@
     dc:description "This ro-crate is specifically for the FAIR-EASE Biodiversity Use Case VRE data products - it does not include all of the MetaGOflow output." ;
     schema:item <https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate> ;
     .
-<https://github.com/emo-bon/observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-bpns-data" ;
-    dc:description "This ro-crate is specifically for observatory-bpns-data" ;
-    schema:item <https://github.com/emo-bon/observatory-bpns-data> ;
-    .
 <https://github.com/emo-bon/governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "governance-data" ;
     dc:description "This ro-crate is specifically for governance-data" ;
     schema:item <https://github.com/emo-bon/governance-data> ;
-    .
-<https://github.com/emo-bon/observatory-bpns-data> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-bpns-data" ;
-    dc:description "This ro-crate is specifically for observatory-bpns-data" ;
-    schema:item <https://github.com/emo-bon/observatory-bpns-data> ;
     .
 <https://github.com/emo-bon/observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "observatory-bpns-crate" ;
