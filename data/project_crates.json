@@ -8,24 +8,10 @@
     },
     {
         "icon": "fa fa-archive",
-        "name": "observatory-bpns-data",
-        "crateurl" : "/observatory-bpns-data",
-        "url" : "https://github.com/emo-bon/observatory-bpns-data",
-        "text": "This ro-crate is specifically for observatory-bpns-data"
-    },
-    {
-        "icon": "fa fa-archive",
         "name": "governance-data",
         "crateurl" : "governance-data",
         "url" : "https://github.com/emo-bon/governance-data",
         "text": "This ro-crate is specifically for governance-data"
-    },
-    {
-        "icon": "fa fa-archive",
-        "name": "observatory-bpns-data",
-        "crateurl" : "/observatory-bpns-data",
-        "url" : "https://github.com/emo-bon/observatory-bpns-data",
-        "text": "This ro-crate is specifically for observatory-bpns-data"
     },
     {
         "icon": "fa fa-archive",
