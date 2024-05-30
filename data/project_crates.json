@@ -2,25 +2,46 @@
     {
         "icon": "fa fa-archive",
         "name": "BPNS observatory",
-        "crateurl" : "/observatory-bpns-crate/#./",
+        "crateurl" : "/observatory-bpns-crate/#./"
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
         "text": "EMO BON logsheets from BPNS"
     },
-   {
+    {
+        "icon": "fa fa-archive",
+        "name": "HCMR-1 observatory",
+        "crateurl" : "/observatory-hcmr-1-crate/#./",
+        "url" : "https://github.com/emo-bon/observatory-hcmr-1-crate",
+        "text": "EMO BON logsheets from HCMR-1"
+    },
+    {
+        "icon": "fa fa-archive",
+        "name": "NRMCB observatory",
+        "crateurl" : "/observatory-nrmcb-crate/#./",
+        "url" : "https://github.com/emo-bon/observatory-nrmcb-crate",
+        "text": "EMO BON logsheets from NRMCB"
+    },
+    {
+        "icon": "fa fa-archive",
+        "name": "RFormosa observatory",
+        "crateurl" : "/observatory-rformosa-crate/#./",
+        "url" : "https://github.com/emo-bon/observatory-rformosa-crate",
+        "text": "EMO BON logsheets from RFormosa"
+    },
+    {
         "icon": "fa fa-archive",
         "name": "LMO observatory",
         "crateurl" : "/observatory-lmo-crate/#./",
         "url" : "https://github.com/emo-bon/observatory-lmo-crate",
         "text": "EMO BON logsheets from LMO"
     },
-   {
+    {
         "icon": "fa fa-archive",
         "name": "UMF observatory",
         "crateurl" : "/observatory-umf-crate/#./",
         "url" : "https://github.com/emo-bon/observatory-umf-crate",
         "text": "EMO BON logsheets from UMF"
     },
-     {
+    {
         "icon": "fa fa-archive",
         "name": "IUIEilat observatory",
         "crateurl" : "/observatory-iuieilat-crate/#./",
@@ -75,27 +96,6 @@
         "crateurl" : "/observatory-roskogo-crate/#./",
         "url" : "https://github.com/emo-bon/observatory-roskogo-crate",
         "text": "EMO BON logsheets from ROSKOGO"
-    },
-   {
-        "icon": "fa fa-archive",
-        "name": "HCMR-1 observatory",
-        "crateurl" : "/observatory-hcmr-1-crate/#./",
-        "url" : "https://github.com/emo-bon/observatory-hcmr-1-crate",
-        "text": "EMO BON logsheets from HCMR-1"
-    },
-   {
-        "icon": "fa fa-archive",
-        "name": "NRMCB observatory",
-        "crateurl" : "/observatory-nrmcb-crate/#./",
-        "url" : "https://github.com/emo-bon/observatory-nrmcb-crate",
-        "text": "EMO BON logsheets from NRMCB"
-    },
-   {
-        "icon": "fa fa-archive",
-        "name": "RFormosa observatory",
-        "crateurl" : "/observatory-rformosa-crate/#./",
-        "url" : "https://github.com/emo-bon/observatory-rformosa-crate",
-        "text": "EMO BON logsheets from RFormosa"
     },
     {
         "icon": "fa fa-archive",
