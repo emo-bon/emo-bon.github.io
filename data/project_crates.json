@@ -1,51 +1,51 @@
-[
+ [
     {
         "icon": "fa fa-archive",
         "name": "BPNS observatory",
         "crateurl" : "/observatory-bpns-crate",
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
-        "text": "This ro-crate is specifically for emobon logsheets from BPNS"
+        "text": "EMO BON logsheets from BPNS"
     },
     {
         "icon": "fa fa-archive",
         "name": "STHVN observatory",
         "crateurl" : "/observatory-sthvn-crate",
         "url" : "https://github.com/emo-bon/observatory-sthvn-crate",
-        "text": "This ro-crate is specifically for emobon logsheets from STHVN"
+        "text": "EMO BON logsheets from STHVN"
     },
     {
         "icon": "fa fa-archive",
         "name": "MBAL4 observatory",
         "crateurl" : "/observatory-mbal4-crate",
         "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
-        "text": "This ro-crate is specifically for emobon logsheets from BMBAL4"
+        "text": "EMO BON logsheets from BMBAL4"
     },
     {
         "icon": "fa fa-archive",
         "name": "Bergen observatory",
         "crateurl" : "/observatory-bergen-crate",
         "url" : "https://github.com/emo-bon/observatory-bergen-crate",
-        "text": "This ro-crate is specifically for emobon logsheets from Bergen"
+        "text": "EMO BON logsheets from Bergen"
     },
     {
         "icon": "fa fa-archive",
         "name": "ESC68N obbservatory",
         "crateurl" : "/observatory-esc68n-crate",
         "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
-        "text": "This ro-crate is specifically for emobon logsheets from ESC68N"
+        "text": "EMO BON logsheets from ESC68N"
     },
     {
         "icon": "fa fa-archive",
         "name": "Governance data",
         "crateurl" : "governance-data",
         "url" : "https://github.com/emo-bon/governance-data",
-        "text": "This ro-crate is specifically for EMO BON governance data"
+        "text": "EMO BON governance data"
     },
     {
         "icon": "fa fa-archive",
         "name": "Sequencing data",
         "crateurl" : "sequencing-data",
         "url" : "https://github.com/emo-bon/sequencing-data",
-        "text": "This ro-crate is specifically for sequencing-related metadata"
+        "text": "Sequencing-related metadata"
     }
 ]
