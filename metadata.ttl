@@ -35,14 +35,13 @@
         rdf:type schema:ItemList;
         schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
         schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
-        schema:itemListElement <https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate>;
-        schema:itemListElement <https://github.com/emo-bon/governance-data>;
         schema:itemListElement <https://github.com/emo-bon/observatory-bpns-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-sthvn-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-mbal4-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-bergen-crate>;
         schema:itemListElement <https://github.com/emo-bon/observatory-esc68n-crate>;
-        schema:itemListElement <https://github.com/emo-bon/MetaGOflow>;
+        schema:itemListElement <https://github.com/emo-bon/governance-data>;
+        schema:itemListElement <https://github.com/emo-bon/sequencing-data>;
         ];
     
     schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
@@ -67,45 +66,40 @@
     schema:item </observatory-profile/draft> ;
     .
 
-<https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "MetaGOflow-Data-Products-RO-Crate" ;
-    dc:description "This ro-crate is specifically for the FAIR-EASE Biodiversity Use Case VRE data products - it does not include all of the MetaGOflow output." ;
-    schema:item <https://github.com/emo-bon/MetaGOflow-Data-Products-RO-Crate> ;
-    .
-<https://github.com/emo-bon/governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "governance-data" ;
-    dc:description "This ro-crate is specifically for governance-data" ;
-    schema:item <https://github.com/emo-bon/governance-data> ;
-    .
 <https://github.com/emo-bon/observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-bpns-crate" ;
-    dc:description "This ro-crate is specifically for observatory-bpns-crate" ;
+    dc:title "BPNS observatory" ;
+    dc:description "This ro-crate is specifically for emobon logsheets from BPNS" ;
     schema:item <https://github.com/emo-bon/observatory-bpns-crate> ;
     .
 <https://github.com/emo-bon/observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-sthvn-crate" ;
-    dc:description "This ro-crate is specifically for observatory-sthvn-crate" ;
+    dc:title "STHVN observatory" ;
+    dc:description "This ro-crate is specifically for emobon logsheets from STHVN" ;
     schema:item <https://github.com/emo-bon/observatory-sthvn-crate> ;
     .
 <https://github.com/emo-bon/observatory-mbal4-crate> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-mbal4-crate" ;
-    dc:description "This ro-crate is specifically for observatory-mbal4-crate" ;
+    dc:title "MBAL4 observatory" ;
+    dc:description "This ro-crate is specifically for emobon logsheets from BMBAL4" ;
     schema:item <https://github.com/emo-bon/observatory-mbal4-crate> ;
     .
 <https://github.com/emo-bon/observatory-bergen-crate> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-bergen-crate" ;
-    dc:description "This ro-crate is specifically for observatory-bergen-crate" ;
+    dc:title "Bergen observatory" ;
+    dc:description "This ro-crate is specifically for emobon logsheets from Bergen" ;
     schema:item <https://github.com/emo-bon/observatory-bergen-crate> ;
     .
 <https://github.com/emo-bon/observatory-esc68n-crate> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "observatory-esc68n-crate" ;
-    dc:description "This ro-crate is specifically for observatory-esc68n-crate" ;
+    dc:title "ESC68N obbservatory" ;
+    dc:description "This ro-crate is specifically for emobon logsheets from ESC68N" ;
     schema:item <https://github.com/emo-bon/observatory-esc68n-crate> ;
     .
-<https://github.com/emo-bon/MetaGOflow> rdf:type schema:ListItem, schema:CreativeWork ;
-    dc:title "MetaGOflow" ;
-    dc:description "This repository contains all CWL descriptions of the MGnify pipeline version 5.0 and their implementation for the Marine Genomic Observatories oriented pipeline, developed in the framework of an EOSC-Life funded project" ;
-    schema:item <https://github.com/emo-bon/MetaGOflow> ;
+<https://github.com/emo-bon/governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "Governance data" ;
+    dc:description "This ro-crate is specifically for EMO BON governance data" ;
+    schema:item <https://github.com/emo-bon/governance-data> ;
+    .
+<https://github.com/emo-bon/sequencing-data> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "Sequencing data" ;
+    dc:description "This ro-crate is specifically for sequencing-related metadata" ;
+    schema:item <https://github.com/emo-bon/sequencing-data> ;
     .
 
 <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
