@@ -2,49 +2,49 @@
     {
         "icon": "fa fa-archive",
         "name": "BPNS observatory",
-        "crateurl" : "/observatory-bpns-crate",
+        "crateurl" : "/observatory-bpns-crate/latest/#./",
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
         "text": "EMO BON logsheets from BPNS"
     },
     {
         "icon": "fa fa-archive",
         "name": "STHVN observatory",
-        "crateurl" : "/observatory-sthvn-crate",
+        "crateurl" : "/observatory-sthvn-crate/latest/#./",
         "url" : "https://github.com/emo-bon/observatory-sthvn-crate",
         "text": "EMO BON logsheets from STHVN"
     },
     {
         "icon": "fa fa-archive",
         "name": "MBAL4 observatory",
-        "crateurl" : "/observatory-mbal4-crate",
+        "crateurl" : "/observatory-mbal4-crate/latest/#./",
         "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
         "text": "EMO BON logsheets from BMBAL4"
     },
     {
         "icon": "fa fa-archive",
         "name": "Bergen observatory",
-        "crateurl" : "/observatory-bergen-crate",
+        "crateurl" : "/observatory-bergen-crate/latest/#./",
         "url" : "https://github.com/emo-bon/observatory-bergen-crate",
         "text": "EMO BON logsheets from Bergen"
     },
     {
         "icon": "fa fa-archive",
         "name": "ESC68N obbservatory",
-        "crateurl" : "/observatory-esc68n-crate",
+        "crateurl" : "/observatory-esc68n-crate/latest/#./",
         "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
         "text": "EMO BON logsheets from ESC68N"
     },
     {
         "icon": "fa fa-archive",
         "name": "Governance data",
-        "crateurl" : "governance-data",
+        "crateurl" : "governance-data/latest/#./",
         "url" : "https://github.com/emo-bon/governance-data",
         "text": "EMO BON governance data"
     },
     {
         "icon": "fa fa-archive",
         "name": "Sequencing data",
-        "crateurl" : "sequencing-data",
+        "crateurl" : "sequencing-data/latest/#./",
         "url" : "https://github.com/emo-bon/sequencing-data",
         "text": "Sequencing-related metadata"
     }
