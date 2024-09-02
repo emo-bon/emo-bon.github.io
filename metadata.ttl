@@ -22,7 +22,6 @@
     dc:title "European Marine Omics Biodiversity Observation Network" ;
     foaf:name "EMO-BON" ;
     dc:description "European Marine Omics Biodiversity Observation Network, A long-term omics observatory of marine biodiversity and ecosystems supporting policy needs and sustainable use of marine biological resources." ;
-    foaf:logo <https://www.embrc.eu/sites/default/files/2021-09/EMO_BON_LOGO_final_Fond_blanc_lettres_aligne%CC%81es_sans_by_embrc.jpg>;
     schema:mainEntityOfPage <https://data.emobon.embrc.eu>;
     schema:hasPart [
         rdf:type schema:ItemList;
@@ -56,14 +55,6 @@
         schema:itemListElement <https://data.emobon.embrc.eugovernance-data/#./>;
         schema:itemListElement <https://data.emobon.embrc.eusequencing-data/#./>;
         ];
-    
-    schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
-    
-    schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
-    
-    .
-
-<https://www.embrc.eu/sites/default/files/2021-09/EMO_BON_LOGO_final_Fond_blanc_lettres_aligne%CC%81es_sans_by_embrc.jpg> rdf:type foaf:Image 
     .
 
 
@@ -178,16 +169,4 @@
     dc:title "Sequencing data" ;
     dc:description "Sequencing-related metadata for emobon" ;
     schema:item <https://github.com/emo-bon/sequencing-data> ;
-    .
-
-<https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
-    dc:title "EMO BON Handbook (2021)" ;
-    dc:description "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
-    schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> ;
-    .
-
-<https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> rdf:type schema:CreativeWork ;
-    dc:title "EMO BON Data Management Plan (2022)" ;
-    dc:description "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
-    schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> ;
     .
