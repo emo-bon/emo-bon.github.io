@@ -35,26 +35,26 @@
         rdf:type schema:ItemList;
         schema:partOf <https://emo-bon.github.io/emo-bon/emo-bon.github.io>;
         schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
-        schema:itemListElement <https://github.com/emo-bon/observatory-bpns-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-hcmr-1-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-nrmcb-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-rformosa-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-lmo-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-umf-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-iuieilat-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-aaot-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-osd74-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-piegetxo-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-emt21-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-oob-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-vb-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-roskogo-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-sthvn-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-mbal4-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-bergen-crate>;
-        schema:itemListElement <https://github.com/emo-bon/observatory-esc68n-crate>;
-        schema:itemListElement <https://github.com/emo-bon/governance-data>;
-        schema:itemListElement <https://github.com/emo-bon/sequencing-data>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-bpns-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-hcmr-1-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-nrmcb-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-rformosa-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-lmo-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-umf-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-iuieilat-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-aaot-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-osd74-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-piegetxo-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-emt21-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-oob-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-vb-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-roskogo-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-sthvn-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-mbal4-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-bergen-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.io/observatory-esc68n-crate/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.iogovernance-data/#./>;
+        schema:itemListElement <https://emo-bon.github.io/emo-bon/emo-bon.github.iosequencing-data/#./>;
         ];
     
     schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
@@ -176,7 +176,7 @@
     .
 <https://github.com/emo-bon/sequencing-data> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Sequencing data" ;
-    dc:description "Sequencing-related metadata" ;
+    dc:description "Sequencing-related metadata for emobon" ;
     schema:item <https://github.com/emo-bon/sequencing-data> ;
     .
 
