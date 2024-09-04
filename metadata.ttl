@@ -60,16 +60,16 @@
         rdf:type schema:ItemList;
         schema:partOf <https://data.emobon.embrc.eu>;
         schema:name "Vocabularies in European Marine Omics Biodiversity Observation Network" ;
-        schema:itemListElement <https://data.emobon.embrc.euhttps://data.emobon.embrc.eu/ns/sequence_vocab>;
-        schema:itemListElement <https://data.emobon.embrc.euhttps://data.emobon.embrc.eu/ns/core_vocab>;
+        schema:itemListElement <https://data.emobon.embrc.eu/ns/sequence_vocab>;
+        schema:itemListElement <https://data.emobon.embrc.eu/ns/core_vocab>;
         ];
     [
         rdf:type schema:ItemList;
         schema:partOf <https://data.emobon.embrc.eu>;
         schema:name "Ontologies in European Marine Omics Biodiversity Observation Network" ;
-        schema:itemListElement <https://data.emobon.embrc.euhttps://data.emobon.embrc.eu/ns/sequence>;
-        schema:itemListElement <https://data.emobon.embrc.euhttps://data.emobon.embrc.eu/ns/core>;
-        schema:itemListElement <https://data.emobon.embrc.euhttps://data.emobon.embrc.eu/ns/sampling>;
+        schema:itemListElement <https://data.emobon.embrc.eu/ns/sequence>;
+        schema:itemListElement <https://data.emobon.embrc.eu/ns/core>;
+        schema:itemListElement <https://data.emobon.embrc.eu/ns/sampling>;
         ];
     
     schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
