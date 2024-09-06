@@ -35,26 +35,26 @@
         rdf:type schema:ItemList;
         schema:partOf <https://data.emobon.embrc.eu>;
         schema:name "Crates in European Marine Omics Biodiversity Observation Network" ;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-bpns-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-hcmr-1-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-nrmcb-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-rformosa-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-lmo-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-umf-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-iuieilat-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-aaot-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-osd74-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-piegetxo-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-emt21-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-oob-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-vb-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-roskogo-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-sthvn-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-mbal4-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-bergen-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/observatory-esc68n-crate/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/governance-data/ro-crate-metadata.json>;
-        schema:itemListElement <https://data.emobon.embrc.eu/sequencing-data/ro-crate-metadata.json>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
+        schema:itemListElement <https://data.emobon.embrc.eu>;
         ];
     [
         rdf:type schema:ItemList;
@@ -71,11 +71,11 @@
         schema:itemListElement <https://data.emobon.embrc.eu/ns/core>;
         schema:itemListElement <https://data.emobon.embrc.eu/ns/sampling>;
         ];
-    
-    schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
-    
-    schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
-    
+    # 
+    # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
+    # 
+    # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
+    # 
     .
 
 <https://www.embrc.eu/sites/default/files/2021-09/EMO_BON_LOGO_final_Fond_blanc_lettres_aligne%CC%81es_sans_by_embrc.jpg> rdf:type foaf:Image 
@@ -94,115 +94,116 @@
     schema:item </observatory-profile/draft> ;
     .
 
-<https://github.com/emo-bon/observatory-bpns-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "BPNS observatory" ;
     dc:description "EMO BON logsheets from BPNS" ;
     schema:item <https://github.com/emo-bon/observatory-bpns-crate> ;
     .
-<https://github.com/emo-bon/observatory-hcmr-1-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "HCMR-1 observatory" ;
     dc:description "EMO BON logsheets from HCMR-1" ;
     schema:item <https://github.com/emo-bon/observatory-hcmr-1-crate> ;
     .
-<https://github.com/emo-bon/observatory-nrmcb-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "NRMCB observatory" ;
     dc:description "EMO BON logsheets from NRMCB" ;
     schema:item <https://github.com/emo-bon/observatory-nrmcb-crate> ;
     .
-<https://github.com/emo-bon/observatory-rformosa-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "RFormosa observatory" ;
     dc:description "EMO BON logsheets from RFormosa" ;
     schema:item <https://github.com/emo-bon/observatory-rformosa-crate> ;
     .
-<https://github.com/emo-bon/observatory-lmo-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "LMO observatory" ;
     dc:description "EMO BON logsheets from LMO" ;
     schema:item <https://github.com/emo-bon/observatory-lmo-crate> ;
     .
-<https://github.com/emo-bon/observatory-umf-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "UMF observatory" ;
     dc:description "EMO BON logsheets from UMF" ;
     schema:item <https://github.com/emo-bon/observatory-umf-crate> ;
     .
-<https://github.com/emo-bon/observatory-iuieilat-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "IUIEilat observatory" ;
     dc:description "EMO BON logsheets from IUIEilat" ;
     schema:item <https://github.com/emo-bon/observatory-iuieilat-crate> ;
     .
-<https://github.com/emo-bon/observatory-aaot-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "AAOT observatory" ;
     dc:description "EMO BON logsheets from AAOT" ;
     schema:item <https://github.com/emo-bon/observatory-aaot-crate> ;
     .
-<https://github.com/emo-bon/observatory-osd74-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "OSD74 observatory" ;
     dc:description "EMO BON logsheets from OSD74" ;
     schema:item <https://github.com/emo-bon/observatory-osd74-crate> ;
     .
-<https://github.com/emo-bon/observatory-piegetxo-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "PIEGetxo observatory" ;
     dc:description "EMO BON logsheets from PIEGetzo" ;
     schema:item <https://github.com/emo-bon/observatory-piegetxo-crate> ;
     .
-<https://github.com/emo-bon/observatory-emt21-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "EMT21 observatory" ;
     dc:description "EMO BON logsheets from EMT21" ;
     schema:item <https://github.com/emo-bon/observatory-emt21-crate> ;
     .
-<https://github.com/emo-bon/observatory-oob-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "OOB observatory" ;
     dc:description "EMO BON logsheets from OOB" ;
     schema:item <https://github.com/emo-bon/observatory-oob-crate> ;
     .
-<https://github.com/emo-bon/observatory-vb-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "VB observatory" ;
     dc:description "EMO BON logsheets from VB" ;
     schema:item <https://github.com/emo-bon/observatory-vb-crate> ;
     .
-<https://github.com/emo-bon/observatory-roskogo-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "ROSKOGO observatory" ;
     dc:description "EMO BON logsheets from ROSKOGO" ;
     schema:item <https://github.com/emo-bon/observatory-roskogo-crate> ;
     .
-<https://github.com/emo-bon/observatory-sthvn-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "STHVN observatory" ;
     dc:description "EMO BON logsheets from STHVN" ;
     schema:item <https://github.com/emo-bon/observatory-sthvn-crate> ;
     .
-<https://github.com/emo-bon/observatory-mbal4-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "MBAL4 observatory" ;
     dc:description "EMO BON logsheets from BMBAL4" ;
     schema:item <https://github.com/emo-bon/observatory-mbal4-crate> ;
     .
-<https://github.com/emo-bon/observatory-bergen-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Bergen observatory" ;
     dc:description "EMO BON logsheets from Bergen" ;
     schema:item <https://github.com/emo-bon/observatory-bergen-crate> ;
     .
-<https://github.com/emo-bon/observatory-esc68n-crate> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "ESC68N obbservatory" ;
     dc:description "EMO BON logsheets from ESC68N" ;
     schema:item <https://github.com/emo-bon/observatory-esc68n-crate> ;
     .
-<https://github.com/emo-bon/governance-data> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Governance data" ;
     dc:description "EMO BON governance data" ;
     schema:item <https://github.com/emo-bon/governance-data> ;
     .
-<https://github.com/emo-bon/sequencing-data> rdf:type schema:ListItem, schema:CreativeWork ;
+<> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Sequencing data" ;
     dc:description "Sequencing-related metadata for emobon" ;
     schema:item <https://github.com/emo-bon/sequencing-data> ;
     .
-
-<https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
-    dc:title "EMO BON Handbook (2021)" ;
-    dc:description "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
-    schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> ;
-    .
-
-<https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> rdf:type schema:CreativeWork ;
-    dc:title "EMO BON Data Management Plan (2022)" ;
-    dc:description "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
-    schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> ;
-    .
+# 
+# <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
+#     dc:title "EMO BON Handbook (2021)" ;
+#     dc:description "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
+#     schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> ;
+#     .
+# 
+# <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> rdf:type schema:CreativeWork ;
+#     dc:title "EMO BON Data Management Plan (2022)" ;
+#     dc:description "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
+#     schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> ;
+#     .
+# 
