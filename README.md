@@ -4,7 +4,7 @@ Launched in summer 2021, EMBRC’s European Marine Omics Biodiversity Observatio
 
 Its primary aim is to ensure steady, continuous generation of ‘baseline’ data on biodiversity at EMBRC sites following FAIR (Findable, Accessible, Interoperable, and Reusable) data principles. EMO BON will ultimately provide Europe with a means to monitor and understand its marine biodiversity. This in turn will facilitate the development of new products and services for society.
 
-**Participating stations and sampling** 
+**Participating stations and sampling**  
 
 EMO BON collects samples from the water column, soft substrates, and hard substrates, aiming to allow researchers to explore marine diversity in different habitats. It will be based around a network of currently 16 sites from Northern Norway to the tropical Red Sea in Israel. Standard operating procedures have been developed with the participating EMBRC partners and can be found in the [EMO BON Handbook](https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook).  
 
