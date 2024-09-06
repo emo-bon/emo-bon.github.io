@@ -55,14 +55,14 @@
         schema:itemListElement <https://data.emobon.embrc.eu/observatory-esc68n-crate/>;
         schema:itemListElement <https://data.emobon.embrc.eu/governance-data/>;
         schema:itemListElement <https://data.emobon.embrc.eu/sequencing-data/>;
-        ];
+        ],
     [
         rdf:type schema:ItemList;
         schema:partOf <https://data.emobon.embrc.eu>;
         schema:name "Vocabularies in European Marine Omics Biodiversity Observation Network" ;
         schema:itemListElement <https://data.emobon.embrc.eu/ns/sequence_vocab>;
         schema:itemListElement <https://data.emobon.embrc.eu/ns/core_vocab>;
-        ];
+        ],
     [
         rdf:type schema:ItemList;
         schema:partOf <https://data.emobon.embrc.eu>;
