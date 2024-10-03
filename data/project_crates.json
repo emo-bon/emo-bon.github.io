@@ -205,8 +205,8 @@
         "url" : "https://github.com/emo-bon/mgf-s3-prototype",
         "text": "MetaGOflow run outputs",
         "keyword": "mgf"
-    }
-     {
+    },
+    {
         "icon": "fa fa-archive",
         "name": "KGAP demo",
         "crateurl" : "/kgap-demo/#./",
