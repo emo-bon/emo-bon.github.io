@@ -6,6 +6,17 @@
     "email": "emobon@embrc.eu"
   },
   {
+      "img": "img/contacts/embrc.jpg",
+      "name": "Ioulia Santi",
+      "job": "Observation, Data, and Service Development Officer",
+      "email": "ioulia.santi@embrc.eu",
+      "ORCID": "0000-0002-0202-8256",
+      "affiliation": {
+          "name": "EMBRC",
+          "url": "https://www.embrc.eu/"
+      }
+  }, 
+  {
       "img": "img/contacts/christinapavloudi_3.jpg",
       "name": "Christina Pavloudi",
       "job": "Data Scientist",
@@ -17,18 +28,18 @@
       }      
     },
     {
-      "img": "img/contacts/embrc.jpg",
-      "name": "Ioulia Santi",
-      "job": "Observation, Data, and Service Development Officer",
-      "email": "ioulia.santi@embrc.eu",
-      "ORCID": "0000-0002-0202-8256",
+      "img": "img/contacts/cymon_cox.png",
+      "name": "Cymon Cox",
+      "job": "MetaGOflow curator",
+      "email": "cymon@ualg.pt",
+      "ORCID": "0000-0002-4927-979X",
       "affiliation": {
-          "name": "EMBRC",
-          "url": "https://www.embrc.eu/"
+          "name": "CCMAR",
+          "url": "https://ccmar.ualg.pt/"
       }
-    },
+    },   
     {
-      "img": "img/contacts/embrc.jpg",
+      "img": "img/contacts/katrina_exter.jpg",
       "name": "Katrina Exter",
       "job": "Data manager",
       "email": "katrina.exter@vliz.be",
