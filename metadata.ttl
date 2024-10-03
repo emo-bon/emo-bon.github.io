@@ -7,14 +7,26 @@
 
 <https://orcid.org>
     a foaf:Person ;
-    foaf:name "EMBRC" ;
-    foaf:mbox <mailto:secretariat@embrc.eu> ;
+    foaf:name "EMO BON Secretariat" ;
+    foaf:mbox <mailto:emobon@embrc.eu> ;
     .
     
-<https://orcid.org/0000-0001-6387-5988>
+<https://orcid.org/0000-0001-5106-6067>
     a foaf:Person ;
-    foaf:name "Cedric Decruw" ;
-    foaf:mbox <mailto:cedric.decruw@vliz.be> ;
+    foaf:name "Christina Pavloudi" ;
+    foaf:mbox <mailto:christina.pavloudi@embrc.eu> ;
+    .
+    
+<https://orcid.org/0000-0002-0202-8256>
+    a foaf:Person ;
+    foaf:name "Ioulia Santi" ;
+    foaf:mbox <mailto:ioulia.santi@embrc.eu> ;
+    .
+    
+<https://orcid.org/0000-0002-5911-1536>
+    a foaf:Person ;
+    foaf:name "Katrina Exter" ;
+    foaf:mbox <mailto:katrina.exter@vliz.be> ;
     .
     
 
