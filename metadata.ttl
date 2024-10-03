@@ -11,16 +11,22 @@
     foaf:mbox <mailto:emobon@embrc.eu> ;
     .
     
+<https://orcid.org/0000-0002-0202-8256>
+    a foaf:Person ;
+    foaf:name "Ioulia Santi" ;
+    foaf:mbox <mailto:ioulia.santi@embrc.eu> ;
+    .
+    
 <https://orcid.org/0000-0001-5106-6067>
     a foaf:Person ;
     foaf:name "Christina Pavloudi" ;
     foaf:mbox <mailto:christina.pavloudi@embrc.eu> ;
     .
     
-<https://orcid.org/0000-0002-0202-8256>
+<https://orcid.org/0000-0002-4927-979X>
     a foaf:Person ;
-    foaf:name "Ioulia Santi" ;
-    foaf:mbox <mailto:ioulia.santi@embrc.eu> ;
+    foaf:name "Cymon Cox" ;
+    foaf:mbox <mailto:cymon@ualg.pt> ;
     .
     
 <https://orcid.org/0000-0002-5911-1536>
