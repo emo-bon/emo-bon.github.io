@@ -66,8 +66,11 @@
         schema:itemListElement <https://data.emobon.embrc.eu/observatory-umf-crate/#./>;
         schema:itemListElement <https://data.emobon.embrc.eu/observatory-vb-crate/#./>;
         schema:itemListElement <https://data.emobon.embrc.eu/governance-data/#./>;
-        schema:itemListElement <https://data.emobon.embrc.eu/sequencing-data/>;
-        schema:itemListElement <https://data.emobon.embrc.eu/sequencing-data/>;
+        schema:itemListElement <https://data.emobon.embrc.eu/sequencing-data/#./>;
+        schema:itemListElement <https://data.emobon.embrc.eu/sequencing-data/#./>;
+        schema:itemListElement <https://data.emobon.embrc.eu/emobon-ontology/#./>;
+        schema:itemListElement <https://data.emobon.embrc.eu/mgf-s3-prototype/#./>;
+        schema:itemListElement <https://data.emobon.embrc.eu/kgap-demo/#./>;
         ],
     [
         rdf:type schema:ItemList;
@@ -202,15 +205,30 @@
     dc:description "Sampling Logsheets" ;
     schema:item <https://github.com/emo-bon/governance-data> ;
     .
-</sequencing-data/> rdf:type schema:ListItem, schema:CreativeWork ;
+</sequencing-data/#./> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Sequencing" ;
     dc:description "Sequencing metadata" ;
     schema:item <https://github.com/emo-bon/sequencing-data> ;
     .
-</sequencing-data/> rdf:type schema:ListItem, schema:CreativeWork ;
+</sequencing-data/#./> rdf:type schema:ListItem, schema:CreativeWork ;
     dc:title "Governance" ;
     dc:description "Governance files" ;
     schema:item <https://github.com/emo-bon/sequencing-data> ;
+    .
+</emobon-ontology/#./> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "EMO BON Ontology" ;
+    dc:description "Ontology files" ;
+    schema:item <https://github.com/emo-bon/emobon-ontology> ;
+    .
+</mgf-s3-prototype/#./> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "MGF S3 test repo" ;
+    dc:description "MetaGOflow run outputs" ;
+    schema:item <https://github.com/emo-bon/mgf-s3-prototype> ;
+    .
+</kgap-demo/#./> rdf:type schema:ListItem, schema:CreativeWork ;
+    dc:title "KGAP demo" ;
+    dc:description "Knowledge Graph Analysis Platform on EMO BON " ;
+    schema:item <https://github.com/emo-bon/kgap-demo> ;
     .
 # 
 # <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
