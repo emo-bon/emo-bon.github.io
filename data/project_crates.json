@@ -173,7 +173,7 @@
     {
         "icon": "fa fa-archive",
         "name": "Sequencing",
-        "crateurl" : "/sequencing-data/",
+        "crateurl" : "/sequencing-data/#./",
         "metadata_crate": "/sequencing-data/ro-crate-metadata.json",
         "url" : "https://github.com/emo-bon/sequencing-data",
         "text": "Sequencing metadata",
@@ -182,10 +182,37 @@
     {
         "icon": "fa fa-archive",
         "name": "Governance",
-        "crateurl" : "/sequencing-data/",
+        "crateurl" : "/sequencing-data/#./",
         "metadata_crate": "/sequencing-data/ro-crate-metadata.json",
         "url" : "https://github.com/emo-bon/sequencing-data",
         "text": "Governance files",
         "keyword": "admin"
+    },
+     {
+        "icon": "fa fa-archive",
+        "name": "EMO BON Ontology",
+        "crateurl" : "/emobon-ontology/#./",
+        "metadata_crate": "/emobon-ontology/ro-crate-metadata.json",
+        "url" : "https://github.com/emo-bon/emobon-ontology",
+        "text": "Ontology files",
+        "keyword": "admin"
+    },
+     {
+        "icon": "fa fa-archive",
+        "name": "MGF S3 test repo",
+        "crateurl" : "/mgf-s3-prototype/#./",
+        "metadata_crate": "/mgf-s3-prototype/ro-crate-metadata.json",
+        "url" : "https://github.com/emo-bon/mgf-s3-prototype",
+        "text": "MetaGOflow run outputs",
+        "keyword": "mgf"
+    }
+     {
+        "icon": "fa fa-archive",
+        "name": "KGAP demo",
+        "crateurl" : "/kgap-demo/#./",
+        "metadata_crate": "/kgap-demo/ro-crate-metadata.json",
+        "url" : "https://github.com/emo-bon/kgap-demo",
+        "text": "Knowledge Graph Analysis Platform on EMO BON ",
+        "keyword": "tools"
     }
 ]
