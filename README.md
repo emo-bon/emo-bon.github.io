@@ -23,7 +23,7 @@ Currently, all metagenomics from EMO BON are to be processed through the [MetaGO
 **Navigating this EMO BON data landing page**
 
 As you scroll down this webpage you will see _Our Data Packages_. This lists the selected repositories which are of the most interest to users, including
-- o dfgdsagsfdgfds The repositories holding the logsheet (meta)data for the observatories, listed by observatory name<br>
+- o The repositories holding the logsheet (meta)data for the observatories, listed by observatory name<br>
 - o Governance metadata, use to control the data management workflows and actions in this GH space.<br>
 - o Sequencing data, containing all the ENA-related metadata<br>
 
@@ -31,7 +31,7 @@ You can browse these either as a GitHub reposotory (click on the GH icon) or via
 
 **Using EMO BON data**
 
-If you want to cite EMO BON, you can use the following publication:<br>
+To cite EMO BON, use the following publication:<br>
 *Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, de Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, Pavloudi C, Poulain J, Præbel K, Vanaverbeke J and Pade N (2023) European marine omics biodiversity observation network: a strategic outline for the implementation of omics approaches in ocean observation. Front. Mar. Sci. 10:1118120. doi: 10.3389/fmars.2023.1118120a*<br>
 If you use EMO BON data in your study, please cite the relevant EMO BON data paper and please add the following acknowledgement in your publication:<br>
 *This work used resources provided by the European Marine Omics Biodiversity Observation Network (EMO BON) project, coordinated by the European Marine Biological Resource Centre (EMBRC)*
