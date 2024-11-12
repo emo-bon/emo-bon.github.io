@@ -3,7 +3,7 @@
         "icon": "fa fa-archive",
         "name": "AAOT (Italy)",
         "crateurl" : "/observatory-aaot-crate/#./",
-        "metadata_crate": "/observatory-aaot-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-aaot-crate/",
         "url" : "https://github.com/emo-bon/observatory-aaot-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -12,7 +12,7 @@
         "icon": "fa fa-archive",
         "name": "Bergen (Norway)",
         "crateurl" : "/observatory-bergen-crate/#./",
-        "metadata_crate": "/observatory-bergen-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-bergen-crate/",
         "url" : "https://github.com/emo-bon/observatory-bergen-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -22,7 +22,7 @@
         "name": "BPNS (Belgium)",
         "crateurl" : "/observatory-bpns-crate/#./",
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
-        "metadata_crate": "/observatory-bpns-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-bpns-crate/",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
     },
@@ -30,7 +30,7 @@
         "icon": "fa fa-archive",
         "name": "ESC68N (Norway)",
         "crateurl" : "/observatory-esc68n-crate/#./",
-        "metadata_crate": "/observatory-esc68n-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-esc68n-crate/",
         "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -39,7 +39,7 @@
         "icon": "fa fa-archive",
         "name": "EMT21 (Spain)",
         "crateurl" : "/observatory-emt21-crate/#./",
-        "metadata_crate": "/observatory-emt21-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-emt21-crate/",
         "url" : "https://github.com/emo-bon/observatory-emt21-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -48,7 +48,7 @@
         "icon": "fa fa-archive",
         "name": "HCMR-1 (Crete)",
         "crateurl" : "/observatory-hcmr-1-crate/#./",
-        "metadata_crate": "/observatory-hcmr-1-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-hcmr-1-crate/",
         "url" : "https://github.com/emo-bon/observatory-hcmr-1-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -57,7 +57,7 @@
         "icon": "fa fa-archive",
         "name": "IUIEilat (Israel)",
         "crateurl" : "/observatory-iuieilat-crate/#./",
-        "metadata_crate": "/observatory-iuieilat-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-iuieilat-crate/",
         "url" : "https://github.com/emo-bon/observatory-iuieilat-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -66,7 +66,7 @@
         "icon": "fa fa-archive",
         "name": "LMO (Sweden)",
         "crateurl" : "/observatory-lmo-crate/#./",
-        "metadata_crate": "/observatory-lmo-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-lmo-crate/",
         "url" : "https://github.com/emo-bon/observatory-lmo-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -75,7 +75,7 @@
         "icon": "fa fa-archive",
         "name": "MBAL4 (United Kingdom)",
         "crateurl" : "/observatory-mbal4-crate/#./",
-        "metadata_crate": "/observatory-mbal4-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-mbal4-crate/",
         "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -84,7 +84,7 @@
         "icon": "fa fa-archive",
         "name": "NRMCB (Italy)",
         "crateurl" : "/observatory-nrmcb-crate/#./",
-        "metadata_crate": "/observatory-nrmcb-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-nrmcb-crate/",
         "url" : "https://github.com/emo-bon/observatory-nrmcb-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -93,7 +93,7 @@
         "icon": "fa fa-archive",
         "name": "OOB (France)",
         "crateurl" : "/observatory-oob-crate/#./",
-        "metadata_crate": "/observatory-oob-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-oob-crate/",
         "url" : "https://github.com/emo-bon/observatory-oob-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -102,7 +102,7 @@
         "icon": "fa fa-archive",
         "name": "OSD74 (Portugal)",
         "crateurl" : "/observatory-osd74-crate/#./",
-        "metadata_crate": "/observatory-osd74-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-osd74-crate/",
         "url" : "https://github.com/emo-bon/observatory-osd74-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -111,7 +111,7 @@
         "icon": "fa fa-archive",
         "name": "PIEGetxo (Spain)",
         "crateurl" : "/observatory-piegetxo-crate/#./",
-        "metadata_crate": "/observatory-piegetxo-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-piegetxo-crate/",
         "url" : "https://github.com/emo-bon/observatory-piegetxo-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -120,7 +120,7 @@
         "icon": "fa fa-archive",
         "name": "Plenzia (Spain)",
         "crateurl" : "/observatory-plenzia-crate#./",
-        "metadata_crate": "/observatory-plenzia-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-plenzia-crate/",
         "url" : "https://github.com/emo-bon/observatory-plenzia-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -129,7 +129,7 @@
         "icon": "fa fa-archive",
         "name": "RFormosa observatory",
         "crateurl" : "/observatory-rformosa-crate/#./",
-        "metadata_crate": "/observatory-rformosa-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-rformosa-crate/",
         "url" : "https://github.com/emo-bon/observatory-rformosa-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -138,7 +138,7 @@
         "icon": "fa fa-archive",
         "name": "ROSKOGO observatory",
         "crateurl" : "/observatory-roskogo-crate/#./",
-        "metadata_crate": "/observatory-roskogo-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-roskogo-crate/",
         "url" : "https://github.com/emo-bon/observatory-roskogo-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -147,7 +147,7 @@
         "icon": "fa fa-archive",
         "name": "UMF (Sweden)",
         "crateurl" : "/observatory-umf-crate/#./",
-        "metadata_crate": "/observatory-umf-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-umf-crate/",
         "url" : "https://github.com/emo-bon/observatory-umf-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -156,7 +156,7 @@
         "icon": "fa fa-archive",
         "name": "VB (France)",
         "crateurl" : "/observatory-vb-crate/#./",
-        "metadata_crate": "/observatory-vb-crate/ro-crate-metadata.json",
+        "lodurl": "observatory-vb-crate/",
         "url" : "https://github.com/emo-bon/observatory-vb-crate",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
@@ -165,34 +165,25 @@
         "icon": "fa fa-archive",
         "name": "Governance data",
         "crateurl" : "/governance-data/#./",
-        "metadata_crate": "/governance-data/ro-crate-metadata.json",
+        "lodurl": "governance-data/",
         "url" : "https://github.com/emo-bon/governance-data",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "admin"
     },
     {
         "icon": "fa fa-archive",
         "name": "Sequencing",
         "crateurl" : "/sequencing-data/#./",
-        "metadata_crate": "/sequencing-data/ro-crate-metadata.json",
+        "lodurl": "sequencing-data/",
         "url" : "https://github.com/emo-bon/sequencing-data",
         "text": "Sequencing metadata",
         "keyword": "admin"
     },
     {
         "icon": "fa fa-archive",
-        "name": "Governance",
-        "crateurl" : "/sequencing-data/#./",
-        "metadata_crate": "/sequencing-data/ro-crate-metadata.json",
-        "url" : "https://github.com/emo-bon/sequencing-data",
-        "text": "Governance files",
-        "keyword": "admin"
-    },
-     {
-        "icon": "fa fa-archive",
         "name": "EMO BON Ontology",
         "crateurl" : "/emobon-ontology/#./",
-        "metadata_crate": "/emobon-ontology/ro-crate-metadata.json",
+        "lodurl": "emobon-ontology/",
         "url" : "https://github.com/emo-bon/emobon-ontology",
         "text": "Ontology files",
         "keyword": "admin"
@@ -201,7 +192,7 @@
         "icon": "fa fa-archive",
         "name": "MGF S3 test repo",
         "crateurl" : "/mgf-s3-prototype/#./",
-        "metadata_crate": "/mgf-s3-prototype/ro-crate-metadata.json",
+        "lodurl": "mgf-s3-prototypey/",
         "url" : "https://github.com/emo-bon/mgf-s3-prototype",
         "text": "MetaGOflow run outputs",
         "keyword": "mgf"
@@ -209,8 +200,6 @@
     {
         "icon": "fa fa-archive",
         "name": "KGAP demo",
-        "crateurl" : "/kgap-demo/#./",
-        "metadata_crate": "/kgap-demo/ro-crate-metadata.json",
         "url" : "https://github.com/emo-bon/kgap-demo",
         "text": "Knowledge Graph Analysis Platform on EMO BON ",
         "keyword": "tools"
