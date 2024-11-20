@@ -1,6 +1,6 @@
 ## A long-term omics observatory of marine biodiversity
 
-Launched in summer 2021, EMBRC’s European Marine Omics Biodiversity Observation Network ([EMO BON](https://www.embrc.eu/services/emo-bon)), aims to enhance the European contribution to global genomic observation efforts. EMO BON will fill current gaps in biological observation, while offering insights into the genetic composition of marine biodiversity. 
+Launched in summer 2021, EMBRC’s European Marine Omics Biodiversity Observation Network ([EMO BON](https://www.embrc.eu/services/emo-bon)), aims to enhance the European contribution to global genomic observation efforts. EMO BON will fill current gaps in biological observation, while offering insights into the genetic composition of marine biodiversity.
 
 Its primary aim is to ensure steady, continuous generation of ‘baseline’ data on biodiversity at EMBRC sites following FAIR (Findable, Accessible, Interoperable, and Reusable) data principles. EMO BON will ultimately provide Europe with a means to monitor and understand its marine biodiversity. This in turn will facilitate the development of new products and services for society.
 
