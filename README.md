@@ -33,6 +33,7 @@ You can browse these either as a GitHub reposotory (click on the GH icon) or via
 
 To cite EMO BON, use the following publication:<br>
 *Santi I, Beluche O, Beraud M, Buttigieg PL, Casotti R, Cox CJ, Cunliffe M, Davies N, de Cerio OD, Exter K, Kervella AE, Kotoulas G, Lagaisse R, Laroquette A, Louro B, Not F, Obst M, Pavloudi C, Poulain J, Præbel K, Vanaverbeke J and Pade N (2023) European marine omics biodiversity observation network: a strategic outline for the implementation of omics approaches in ocean observation. Front. Mar. Sci. 10:1118120. doi: 10.3389/fmars.2023.1118120a*<br>
+
 If you use EMO BON data in your study, please cite the relevant EMO BON data paper and please add the following acknowledgement in your publication:<br>
-*This work used resources provided by the European Marine Omics Biodiversity Observation Network (EMO BON) project, coordinated by the European Marine Biological Resource Centre (EMBRC)*
+*This work used resources provided by the European Marine Omics Biodiversity Observation Network (EMO BON) innitiative, coordinated by the European Marine Biological Resource Centre (EMBRC)*
 
