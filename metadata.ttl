@@ -72,8 +72,7 @@
     <https://data.emobon.embrc.eu/emobon-ontology/>,
     <https://data.emobon.embrc.eu/mgf-s3-prototypey/>,
     <https://data.emobon.embrc.eu>
-    ;
-
+    .
 
     # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
