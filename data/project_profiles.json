@@ -11,4 +11,10 @@
       "url" : "/observatory-profile/draft",
       "text": "Ro profile for observatory crates in the emo-bon project."
     }
+    {
+      "icon": "fa fa-book",
+      "title": "analysis-results-profile",
+      "url" : "/analysis-results-profile/draft",
+      "text": "Ro profile for analysis result crates in the emo-bon project."
+    }
 ]
