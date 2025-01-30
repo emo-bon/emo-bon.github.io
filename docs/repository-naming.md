@@ -18,9 +18,9 @@ Avoid use of trailing `s` in folder and repository names, as they don’t provid
 
 ## Types of repositories
 
-| Repo Suffix   | Type of Repo | WF Effects | Comments |
-|--------------|-------------|------------|----------|
-| **\-crate**  | An actual RO-Crate holding data | Can conform to different profiles (see next) | (Will) apply ‘rocrate-to-pages’ to produce browsing like crate-explorer into the content |
-| **\-profile** | An actual RO-Profile (a crate in its own right) that formally describes the layout/structure of the crates that declare conformance to it | (Will) apply (to be designed) ‘profile-to-pages’ to manage releases and expose content similar to rocrate-to-pages | |
-| **\-example** | Indicative of playground nature of the repo. Can be combined with other suffixes (but should be the final one) | None fixed | |
-| **\-docs** | A larger body of self-contained documentation. Should probably have a reflecting page linking to it from the main website repo | None atm | |
+| Repo suffix       | Type of Repo |
+|-------------------|--------------|
+| **\-crate**       | An actual RO-Crate holding data |
+| **\-profile**     | An actual RO-Profile (a crate in its own right) that formally describes the layout/structure of the crates that declare conformance to it |
+| **\-example**     | Indicative of playground nature of the repo. Can be combined with other suffixes (but should be the final one) |
+| **\-docs**        | A larger body of self-contained documentation. Should probably have a reflecting page linking to it from the main website repo |
