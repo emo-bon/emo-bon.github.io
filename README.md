@@ -37,3 +37,14 @@ To cite EMO BON, use the following publication:<br>
 If you use EMO BON data in your study, please cite the relevant EMO BON data paper and please add the following acknowledgement in your publication:<br>
 *This work used resources provided by the European Marine Omics Biodiversity Observation Network (EMO BON) innitiative, coordinated by the European Marine Biological Resource Centre (EMBRC)*
 
+**Documentation**
+
+Welcome to the project documentation. Below is a list of available pages:
+
+  [DevOps Guid](/docs/devops.md)
+  [Entities](/docs/entities.md)
+  [Flow](/docs/flow.md)
+  [Repository Naming](repository-naming.md)
+  [Terms](/docs/terms.md)
+
+Click on the links to navigate to the respective sections.
