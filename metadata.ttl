@@ -48,6 +48,7 @@
     dcat:dataset 
     </sequencing-profile>,
     </observatory-profile/draft>,
+    </analysis-results-profile/draft>,
      
     <https://data.emobon.embrc.eu/observatory-aaot-crate/>,
     <https://data.emobon.embrc.eu/observatory-bergen-crate/>,
@@ -72,7 +73,7 @@
     <https://data.emobon.embrc.eu/emobon-ontology/>,
     <https://data.emobon.embrc.eu/mgf-s3-prototypey/>,
     <https://data.emobon.embrc.eu>
-    ;
+    .
 
 
     # 
@@ -94,6 +95,12 @@
     dc:title "observatory-profile" ;
     dc:description "Ro profile for observatory crates in the emo-bon project." ;
     schema:item </observatory-profile/draft> ;
+    .
+
+</analysis-results-profile/draft> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dc:title "analysis-results-profile" ;
+    dc:description "Ro profile for analysis result crates in the emo-bon project." ;
+    schema:item </analysis-results-profile/draft> ;
     .
 
 </observatory-aaot-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
