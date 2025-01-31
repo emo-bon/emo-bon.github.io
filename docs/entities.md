@@ -1,4 +1,6 @@
-List of all main entities created & referenced in our data flow:
+# Entities created & referenced in our data flow
+
+table of content
 1. [RO-Profiles](#ro-profiles)
 2. [Crates](#crates)
    - [Observatory Crate](#observatory-crate)
@@ -49,36 +51,42 @@ Each type of crate has a unique URI structure, is created under specific workflo
 
 ## 1. Governance Crate
 - **Concept**:  
-Contains governance-related metadata and policies.
+Contains information relating to the governance of EMO BON GitHub activities and actions.
 - **Creation & Management**:  
 `https://github.com/emo-bon/governance-crate/`
 - **URI Format**:  
 `https://data.emobon.embrc.eu/governance-crate/`
-- **References**:
+- **References**:  
+?
 
 ## 2. Observatory Crate
 - **Concept**:  
-Represents an observatory and its associated datasets.
+Holds information about an EMOBON Observatory, its associated sampling events, and the data generated from those events.
 - **Creation & Management**:  
 `https://github.com/emo-bon/observatory-{obsid}-crate/`
 - **URI Format**:  
 `https://data.emobon.embrc.eu/observatory-{obsid}-crate/`
-- **References**:
+  - `{obsid}`: Name of the EMOBON observatory 
+- **References**:  
+?
 
 
 ## 3. Analysis-Results Crate
 - **Concept**:  
-Captures the results of data analysis processes.
-- **Creation & Management**:
+Holds information and data resulting from MetaGOFlow data analysis processes.
+- **Creation & Management**:  
 `https://github.com/emo-bon/analysis-results-{cluster}-crate/{genoscope-code}/`
 - **URI Format**:  
 `https://data.emobon.embrc.eu/analysis-results-{cluster}-crate/{genoscope-code}/`
 - **References**:
 
 ## 4. Sequencing Crate
-- **Concept**: Groups sequencing-related data for structured access.
-- **Creation & Management**:
-- **URI Format**: `https://data.emobon.embrc.eu/sequencing-crate/`
+- **Concept**:  
+Holds information and data resulting from sequencing runs.
+- **Creation & Management**:  
+`https://github.com/emo-bon/sequencing-crate/??/{material_sample_id}`
+- **URI Format**:  
+`https://data.emobon.embrc.eu/sequencing-crate/??/{material_sample_id}`
 - **References**:
 
 
@@ -87,44 +95,54 @@ Captures the results of data analysis processes.
 # Entities
 
 ### Dataset ?
-- **Concept**: A curated collection of data, potentially with a persistent identifier and versioning.
+- **Concept**:  
+A curated collection of data, potentially with a persistent identifier and versioning.
 - **Creation & Management**: Created when structured data is published for reuse.
 - **URI Format**:
 - **References**: 
 
 ### Observatory
-- **Concept**:
+- **Concept**:  
+An EMO BON organisational unit linked to the collection of a specific sample type (e.g. water column, soft sediment) from a fixed, pre-determined location.
 - **Creation & Management**:  
 `https://github.com/emo-bon/observatory-{obsid}-crate/`
 - **URI Format**:  
 `http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/observatory/{obsid}`
   - `{obsid}`: ...
   - `{env_package}`: ...
-- **References**: 
+- **References**:  
+?
+
+### Sampling Event
+- **Concept**:  
+A sampling action performed at a particular observatory at a specific time, resulting in the collection of one or more samples.
+- **Creation & Management**:  
+`https://github.com/emo-bon/observatory-{obsid}-crate/tree/main/{env_package}/sampling` 
+- **URI Format**:  
+`http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/sampling/{source_mat_id}`
+- **References**:  
+?
 
 ### Sample
-- **Concept**: 
+- **Concept**:  
+A material sample collected during a sampling event.
 - **Creation & Management**:  
 `https://github.com/emo-bon/observatory-{obsid}-crate/tree/main/{env_package}/sampling`
 - **URI Format**:  
-`http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/measured/{EMOBON_BPNS_So_1}`
+`http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/measured/{source_mat_id}`
 - **References**: 
+?
 
-### Sampling Event
-- **Concept**: 
-- **Creation & Management**:
-`https://github.com/emo-bon/observatory-{obsid}-crate/tree/main/{env_package}/sampling` 
-- **URI Format**:  
-`http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/sampling/{EMOBON_BPNS_So_1}`
-- **References**: 
 
 ### Measurements/Observations
 - **Concept**: 
+A measurement or observations made from a sample.
 - **Creation & Management**:  
 `https://github.com/emo-bon/observatory-{obsid}-crate/tree/main/{env_package}/measured` 
 - **URI Format**:  
-`http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/measured/{EMOBON_BPNS_So_1}#{observedProperty}`
+`http://data.emobon.embrc.eu/observatory-{obsid}-crate/{env_package}/measured/{source_mat_id}#{observedProperty}`
 - **References**:
+?
 
 ### Sequencing Run
 - **Concept**: 
@@ -133,19 +151,30 @@ Captures the results of data analysis processes.
 - **References**: Found in sequencing crates and analysis workflows.
 
 ### Batch 
-- **Concept**:
-- **Creation & Management**:
-- **URI Format**: `https://data.emobon.embrc.eu/batch/{batch-id}/`
-- **References**: 
+- **Concept**:  
+...
+- **Creation & Management**:  
+``
+- **URI Format**:  
+`https://data.emobon.embrc.eu/batch/{batch-id}/`
+- **References**:  
+?
 
 ### Sequence
-- **Concept**:
-- **Creation & Management**:
-- **URI Format**: `https://data.emobon.embrc.eu/sequence/{sequence-id}/`
+- **Concept**:  
+...
+- **Creation & Management**:  
+`` 
+- **URI Format**:  
+`https://data.emobon.embrc.eu/sequence/{sequence-id}/`
 - **References**: 
 
 ### Analysis Result
-- **Concept**:
-- **Creation & Management**:
-- **URI Format**: `https://data.emobon.embrc.eu/analysis-result/{result-id}/`
+- **Concept**:  
+...
+- **Creation & Management**:  
+``
+- **URI Format**:  
+`https://data.emobon.embrc.eu/analysis-result/{result-id}/`
 - **References**: 
+?
