@@ -44,4 +44,3 @@
 - how to consume data & api
     - todo: UDAL named queries 
     - todo: VREs consuming those via sema query + udal
-      
