@@ -4,6 +4,7 @@
     "main.css": "./static/css/main.e732fabe.css",
     "navigation.js": "./navigation.bundle.js",
     "index.html": "./index.html",
+    "navigation.html": "./navigation.html",
     "main.bundle.js.map": "./main.bundle.js.map",
     "main.e732fabe.css.map": "./static/css/main.e732fabe.css.map",
     "navigation.bundle.js.map": "./navigation.bundle.js.map"
