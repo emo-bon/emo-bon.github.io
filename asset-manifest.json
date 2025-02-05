@@ -1,20 +1,15 @@
 {
   "files": {
+    "main.js": "./main.bundle.js",
     "main.css": "./static/css/main.e732fabe.css",
-    "main.js": "./static/js/main.37de04f4.js",
-    "static/media/terms.md": "./static/media/terms.b699989c388f77b21243.md",
-    "static/media/devops.md": "./static/media/devops.7a1483f4c6a7b7ac3fcf.md",
-    "static/media/entities.md": "./static/media/entities.1052731f9dbc0d2173b2.md",
-    "static/media/flow.md": "./static/media/flow.874044b8083260b0f739.md",
-    "static/media/repository-naming.md": "./static/media/repository-naming.8a9e0275b18fc2f8993e.md",
+    "navigation.js": "./navigation.bundle.js",
     "index.html": "./index.html",
-    "static/media/index.md": "./static/media/index.8744c3765fc468ae281a.md",
-    "static/media/test.md": "./static/media/test.db346d691d7acc4dc262.md",
+    "main.bundle.js.map": "./main.bundle.js.map",
     "main.e732fabe.css.map": "./static/css/main.e732fabe.css.map",
-    "main.37de04f4.js.map": "./static/js/main.37de04f4.js.map"
+    "navigation.bundle.js.map": "./navigation.bundle.js.map"
   },
   "entrypoints": [
-    "static/css/main.e732fabe.css",
-    "static/js/main.37de04f4.js"
+    "main.bundle.js",
+    "static/css/main.e732fabe.css"
   ]
 }
