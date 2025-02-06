@@ -49,4 +49,3 @@ Welcome to the project documentation. Below is a list of available pages:
   [Terms](/docs/terms.md)
 
 Click on the links to navigate to the respective sections.
-
