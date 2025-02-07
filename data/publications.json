@@ -1,5 +1,10 @@
 [
-    {
+     {
+        "title": "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples",
+        "text": "First data paper from EMO BON",
+        "img": "/img/publications/4.jpg", 
+        "link": "https://doi.org/10.3897/arphapreprints.e146366"
+    },{
         "title": "EMO BON Handbook (2021)",
         "text": "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)",
         "img": "/img/publications/4.jpg", 
