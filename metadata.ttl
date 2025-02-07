@@ -77,6 +77,8 @@
 
 
     # 
+    # schema:hasPart <https://doi.org/10.3897/arphapreprints.e146366>;
+    # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
     # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
@@ -218,6 +220,12 @@
     dc:description "Knowledge Graph Analysis Platform on EMO BON " ;
     schema:item <https://github.com/emo-bon/kgap-demo> ;
     .
+# 
+# <https://doi.org/10.3897/arphapreprints.e146366> rdf:type schema:CreativeWork ;
+#     dc:title "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples" ;
+#     dc:description "First data paper from EMO BON" ;
+#     schema:url <https://doi.org/10.3897/arphapreprints.e146366> ;
+#     .
 # 
 # <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
 #     dc:title "EMO BON Handbook (2021)" ;
