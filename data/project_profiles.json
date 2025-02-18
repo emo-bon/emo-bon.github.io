@@ -3,18 +3,18 @@
       "icon": "fa fa-book",
       "title": "sequencing-profile",
       "url" : "/sequencing-profile",
-      "text": "Ro profile for sequencing crates in the emo-bon project."
+      "text": "Ro profile for sequencing crates in the emobon project."
     },
     {
       "icon": "fa fa-book",
       "title": "observatory-profile",
       "url" : "/observatory-profile/draft",
-      "text": "Ro profile for observatory crates in the emo-bon project."
+      "text": "Ro profile for observatory crates in the emobon project."
     },
     {
       "icon": "fa fa-book",
       "title": "analysis-results-profile",
       "url" : "/analysis-results-profile/draft",
-      "text": "Ro profile for analysis result crates in the emo-bon project."
+      "text": "Ro profile for analysis result crates in the emobon project."
     }
 ]

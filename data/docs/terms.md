@@ -1,4 +1,4 @@
-# EMO-BON glossary 
+# emobon glossary 
 
 ## Physical concepts
 | **Term** | **Definition** | |
