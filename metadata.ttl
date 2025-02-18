@@ -36,6 +36,12 @@
     foaf:mbox <mailto:katrina.exter@vliz.be> ;
     .
     
+<https://orcid.org/0000-0002-9648-6484>
+    a foaf:Person ;
+    foaf:name "Marc Portier" ;
+    foaf:mbox <mailto:marc.portier@vliz.be> ;
+    .
+    
 
 
 <https://data.emobon.embrc.eu> rdf:type foaf:Project, dcat:Catalog ;
