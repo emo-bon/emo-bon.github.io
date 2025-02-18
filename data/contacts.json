@@ -1,12 +1,12 @@
 [
   {
-    "img": "img/contacts/ioulia_santi.jpg",
+    "img": "img/contacts/embrc.jpg",
     "name": "EMO BON Secretariat",
     "job": "EMO BON Secretariat",
     "email": "emobon@embrc.eu"
   },
   {
-      "img": "img/contacts/embrc.jpg",
+      "img": "img/contacts/ioulia_santi.jpg",
       "name": "Ioulia Santi",
       "job": "Observation, Data, Service Development",
       "email": "ioulia.santi@embrc.eu",
@@ -44,6 +44,17 @@
       "job": "Data manager",
       "email": "katrina.exter@vliz.be",
       "ORCID": "0000-0002-5911-1536",
+      "affiliation": {
+          "name": "Flander's Marine Institute (VLIZ)",
+          "url": "https://vliz.be/"
+       }
+    },   
+    {
+      "img": "img/contacts/mpo.jpg",
+      "name": "Marc Portier",
+      "job": "Systems Engineer",
+      "email": "marc.portier@vliz.be",
+      "ORCID": "0000-0002-9648-6484",
       "affiliation": {
           "name": "Flander's Marine Institute (VLIZ)",
           "url": "https://vliz.be/"
