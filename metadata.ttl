@@ -50,6 +50,7 @@
     </observatory-profile/draft>,
     </analysis-results-profile/draft>,
      
+    <https://data.emobon.embrc.eu/mgf-s3-prototypey/>,
     <https://data.emobon.embrc.eu/observatory-aaot-crate/>,
     <https://data.emobon.embrc.eu/observatory-bergen-crate/>,
     <https://data.emobon.embrc.eu/observatory-bpns-crate/>,
@@ -67,12 +68,7 @@
     <https://data.emobon.embrc.eu/observatory-rformosa-crate/>,
     <https://data.emobon.embrc.eu/observatory-roskogo-crate/>,
     <https://data.emobon.embrc.eu/observatory-umf-crate/>,
-    <https://data.emobon.embrc.eu/observatory-vb-crate/>,
-    <https://data.emobon.embrc.eu/governance-data/>,
-    <https://data.emobon.embrc.eu/sequencing-data/>,
-    <https://data.emobon.embrc.eu/emobon-ontology/>,
-    <https://data.emobon.embrc.eu/mgf-s3-prototypey/>,
-    <https://data.emobon.embrc.eu>
+    <https://data.emobon.embrc.eu/observatory-vb-crate/>
     .
 
 
@@ -105,6 +101,11 @@
     schema:item </analysis-results-profile/draft> ;
     .
 
+</mgf-s3-prototypey/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dc:title "MGF S3 test repo" ;
+    dc:description "MetaGOflow run outputs" ;
+    schema:item <https://github.com/emo-bon/mgf-s3-prototype> ;
+    .
 </observatory-aaot-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
     dc:title "AAOT (Italy)" ;
     dc:description "Sampling Logsheets" ;
@@ -194,31 +195,6 @@
     dc:title "VB (France)" ;
     dc:description "Sampling Logsheets" ;
     schema:item <https://github.com/emo-bon/observatory-vb-crate> ;
-    .
-</governance-data/> rdf:type dcat:Dataset, schema:CreativeWork ;
-    dc:title "Governance data" ;
-    dc:description "Sampling Logsheets" ;
-    schema:item <https://github.com/emo-bon/governance-data> ;
-    .
-</sequencing-data/> rdf:type dcat:Dataset, schema:CreativeWork ;
-    dc:title "Sequencing" ;
-    dc:description "Sequencing metadata" ;
-    schema:item <https://github.com/emo-bon/sequencing-data> ;
-    .
-</emobon-ontology/> rdf:type dcat:Dataset, schema:CreativeWork ;
-    dc:title "EMO BON Ontology" ;
-    dc:description "Ontology files" ;
-    schema:item <https://github.com/emo-bon/emobon-ontology> ;
-    .
-</mgf-s3-prototypey/> rdf:type dcat:Dataset, schema:CreativeWork ;
-    dc:title "MGF S3 test repo" ;
-    dc:description "MetaGOflow run outputs" ;
-    schema:item <https://github.com/emo-bon/mgf-s3-prototype> ;
-    .
-<> rdf:type dcat:Dataset, schema:CreativeWork ;
-    dc:title "KGAP demo" ;
-    dc:description "Knowledge Graph Analysis Platform on EMO BON " ;
-    schema:item <https://github.com/emo-bon/kgap-demo> ;
     .
 # 
 # <https://doi.org/10.3897/arphapreprints.e146366> rdf:type schema:CreativeWork ;
