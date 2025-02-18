@@ -5,5 +5,6 @@
     "long_name": "European Marine Omics Biodiversity Observation Network",
     "short_name": "EMO-BON",
     "logo": "https://www.embrc.eu/sites/default/files/2021-09/EMO_BON_LOGO_final_Fond_blanc_lettres_aligne%CC%81es_sans_by_embrc.jpg",
-    "markdown_about_us":"README.md"
+    "markdown_about_us":"README.md",
+    "gh_add_issue_link": "https://example.org"
 }

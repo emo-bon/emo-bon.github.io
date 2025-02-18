@@ -1,0 +1,28 @@
+,
+    {
+        "icon": "fa fa-archive",
+        "name": "Governance data",
+        "crateurl" : "/governance-data/#./",
+        "lodurl": "/governance-data/",
+        "url" : "https://github.com/emo-bon/governance-data",
+        "text": "Sampling Logsheets",
+        "keyword": "admin"
+    },
+    {
+        "icon": "fa fa-archive",
+        "name": "Sequencing",
+        "crateurl" : "/sequencing-data/#./",
+        "lodurl": "/sequencing-data/",
+        "url" : "https://github.com/emo-bon/sequencing-data",
+        "text": "Sequencing metadata",
+        "keyword": "admin"
+    },
+    {
+        "icon": "fa fa-archive",
+        "name": "EMO BON Ontology",
+        "crateurl" : "/emobon-ontology/#./",
+        "lodurl": "/emobon-ontology/",
+        "url" : "https://github.com/emo-bon/emobon-ontology",
+        "text": "Ontology files",
+        "keyword": "admin"
+    }
