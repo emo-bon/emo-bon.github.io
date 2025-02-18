@@ -15,5 +15,17 @@
         "text": "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)",
         "img": "/img/publications/4.jpg",
         "link": "https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf"
+    },
+    {
+        "title": "European marine omics biodiversity observation network: a strategic outline for the implementation of omics approaches in ocean observation",
+        "text": "position paper describing what EMO BON is and how it operates",
+        "img": "/img/publications/4.jpg",
+        "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full"
+    },
+    {
+        "title": "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data",
+        "text": "bioinformatics workflow for analyses of metagenomic data",
+        "img": "/img/publications/4.jpg",
+        "link": "https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054"
     }
 ]
