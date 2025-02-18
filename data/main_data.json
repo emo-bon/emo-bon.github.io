@@ -4,7 +4,7 @@
     "description": "European Marine Omics Biodiversity Observation Network, A long-term omics observatory of marine biodiversity and ecosystems supporting policy needs and sustainable use of marine biological resources.",
     "long_name": "European Marine Omics Biodiversity Observation Network",
     "short_name": "EMO-BON",
-    "logo": "emobon_logo.png",
+    "logo": "https://data.emobon.embrc.eu/img/emobon_logo.png",
     "markdown_about_us":"README.md",
     "gh_add_issue_link": "https://github.com/emo-bon/emo-bon.github.io/issues/new?template=new-paper-submission.md"
 }
