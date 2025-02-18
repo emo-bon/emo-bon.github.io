@@ -85,6 +85,10 @@
     # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
     # 
+    # schema:hasPart <https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full>;
+    # 
+    # schema:hasPart <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054>;
+    # 
 <https://data.emobon.embrc.eu/img/emobon_logo.png> rdf:type foaf:Image 
     .
 
@@ -219,5 +223,17 @@
 #     dc:title "EMO BON Data Management Plan (2022)" ;
 #     dc:description "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)" ;
 #     schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> ;
+#     .
+# 
+# <https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full> rdf:type schema:CreativeWork ;
+#     dc:title "European marine omics biodiversity observation network: a strategic outline for the implementation of omics approaches in ocean observation" ;
+#     dc:description "position paper describing what EMO BON is and how it operates" ;
+#     schema:url <https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full> ;
+#     .
+# 
+# <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054> rdf:type schema:CreativeWork ;
+#     dc:title "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data" ;
+#     dc:description "bioinformatics workflow for analyses of metagenomic data" ;
+#     schema:url <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054> ;
 #     .
 # 
