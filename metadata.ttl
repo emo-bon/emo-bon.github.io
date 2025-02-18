@@ -48,7 +48,7 @@
     dc:title "European Marine Omics Biodiversity Observation Network" ;
     foaf:name "EMO-BON" ;
     dc:description "European Marine Omics Biodiversity Observation Network, A long-term omics observatory of marine biodiversity and ecosystems supporting policy needs and sustainable use of marine biological resources." ;
-    foaf:logo <emobon_logo.png> ;
+    foaf:logo <https://data.emobon.embrc.eu/img/emobon_logo.png> ;
     schema:mainEntityOfPage <https://data.emobon.embrc.eu> ;
     foaf:homepage <https://data.emobon.embrc.eu> ;
     dcat:dataset 
@@ -85,7 +85,7 @@
     # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
     # 
-<emobon_logo.png> rdf:type foaf:Image 
+<https://data.emobon.embrc.eu/img/emobon_logo.png> rdf:type foaf:Image 
     .
 
 
