@@ -33,6 +33,14 @@ As you scroll down this webpage you will see _Our Data Packages_. This lists the
   
 You can browse these either as a GH reposotory (click on the GH icon) or via our RO-Crate viewer (click on the filing box icon). For the full set of repositories, you can also navigate directly to the [GitHub space](https://github.com/emo-bon).
 
+Below the Data Packages, you can see 
+- o EMO BON-related publications
+- o The various people responsible for the different parts of EMO BON
+<!--
+- o Results ...
+- o Docs ...
+-->
+
 **Using EMO BON data**
 
 To cite EMO BON, use the following publication: <br>
