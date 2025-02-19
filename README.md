@@ -23,12 +23,12 @@ Currently, all metagenomics from EMO BON are to be processed through the [MetaGO
 **Navigating this EMO BON data landing page**
 
 As you scroll down this webpage you will see _Our Data Packages_. This lists the selected repositories which are of the most interest to users, including
-- The repository holding all the analysis results, being the bioinformatics processing with MetaGOflow
-- The repositories holding the logsheet (meta)data for the observatories, listed by observatory name.<br>
+- o The repository holding all the analysis results, being the bioinformatics processing with MetaGOflow
+- o The repositories holding the logsheet (meta)data for the observatories, listed by observatory name.<br>
 
 <!--
-- Governance metadata, use to control the data management workflows and actions in this GH space.<br>
-- Sequencing data, containing all the ENA-related metadata.<br>
+- o Governance metadata, use to control the data management workflows and actions in this GH space.<br>
+- o Sequencing data, containing all the ENA-related metadata.<br>
 -->
   
 You can browse these either as a GH reposotory (click on the GH icon) or via our RO-Crate viewer (click on the filing box icon). For the full set of repositories, you can also navigate directly to the [GitHub space](https://github.com/emo-bon).
