@@ -1,13 +1,4 @@
  [
-     {
-        "icon": "fa fa-archive",
-        "name": "MGF S3 test repo",
-        "crateurl" : "/mgf-s3-prototype/#./",
-        "lodurl": "/mgf-s3-prototypey/",
-        "url" : "https://github.com/emo-bon/mgf-s3-prototype",
-        "text": "MetaGOflow run outputs",
-        "keyword": "metagoflow"
-    }, 
     {
         "icon": "fa fa-archive",
         "name": "AAOT (Italy)",
