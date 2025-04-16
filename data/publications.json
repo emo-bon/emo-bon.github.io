@@ -1,30 +1,30 @@
 [
      {
         "title": "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples",
-        "text": "First data paper from EMO BON",
+        "text": "First data paper from EMO BON (2025)",
         "img": "/img/publications/4.jpg", 
         "link": "https://doi.org/10.3897/arphapreprints.e146366"
     },{
         "title": "EMO BON Handbook (2021)",
-        "text": "Note hat the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)",
+        "text": "Note hat the latest version can always be found on https://www.embrc.eu/documents-and-resources/",
         "img": "/img/publications/4.jpg", 
         "link": "https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf"
     },
     {
         "title": "EMO BON Data Management Plan (2022)",
-        "text": "Note that the latest version can always be found on the EMO BON website (https://www.embrc.eu/services/emo-bon)",
+        "text": "Note that the latest version can always be found on https://www.embrc.eu/documents-and-resources/",
         "img": "/img/publications/4.jpg",
         "link": "https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf"
     },
     {
         "title": "European marine omics biodiversity observation network: a strategic outline for the implementation of omics approaches in ocean observation",
-        "text": "position paper describing what EMO BON is and how it operates",
+        "text": "Position paper describing what EMO BON is and how it operates (2023)",
         "img": "/img/publications/4.jpg",
         "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full"
     },
     {
         "title": "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data",
-        "text": "bioinformatics workflow for analyses of metagenomic data",
+        "text": "Describine this bioinformatics workflow for analyses of metagenomic data (2023)",
         "img": "/img/publications/4.jpg",
         "link": "https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054"
     }
