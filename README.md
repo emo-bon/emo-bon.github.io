@@ -24,7 +24,8 @@ Currently, all metagenomics from EMO BON are to be processed through the [MetaGO
 
 As you scroll down this webpage you will see _Our Data Packages_. This lists the selected repositories which are of the most interest to users, including
 - o The repositories holding the logsheet (meta)data for each observatory, listed by observatory name
-- o The repository holding all the bioinformatics analysis results for the metagenomics data, from the pipeline MetaGOflow <br>
+- o The repository holding all the bioinformatics analysis results for the metagenomics data, from the pipeline MetaGOflow
+- o Some results, including the list of accession numbers of the released batches archived in ENA <br>
 
 <!--
 - o Governance metadata, use to control the data management workflows and actions in this GH space.<br>
