@@ -3,14 +3,14 @@
         "icon": "fa fa-archive",
         "name": "ena-accession-numbers-batch-001",
         "url" : "https://github.com/emo-bon/sequencing-crate/blob/main/shipment/batch-001/ena-accession-numbers-batch-001.csv",
-        "text": "ENA results for batch 001 in csv format",
+        "text": "ENA accession numbers for batch 001 data release (CSV)",
         "keyword": "csv"
     },
     {
         "icon": "fa fa-archive",
         "name": "ena-accession-numbers-batch-002",
-        "url" : "https://github.com/emo-bon/sequencing-crate/blob/main/shipment/batch-002/ena-accession-numbers-batch-002.csv",
-        "text": "Knowledge Graph Analysis Platform on EMO BON ",
-        "keyword": "ENA results for batch 002 in csv format"
+        "url" : "https://github.com/emo-bon/sequencing-crate/blob/main/shipment/batch-001/ena-accession-numbers-batch-001.csv",
+        "text": "ENA accession numbers for batch 002 data release (CSV)",
+        "keyword": "csv"
     }
 ]
