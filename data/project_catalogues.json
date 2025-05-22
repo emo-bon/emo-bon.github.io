@@ -1,11 +1,11 @@
  [
     {
         "icon": "fa fa-archive",
-        "name": "metaGOflow-rocrates-dvc",
-        "crateurl" : "/metaGOflow-rocrates-dvc/#./",
-        "lodurl": "/metaGOflow-rocrates-dvc/",
-        "url" : "https://github.com/emo-bon/metaGOflow-rocrates-dvc",
-        "text": "Bioinformatics output catalogue",
+        "name": "analysis-results-cluster-01",
+        "crateurl" : "/analysis-results-cluster-01-crate/#./",
+        "lodurl": "/analysis-results-cluster-01-crate/",
+        "url" : "https://github.com/emo-bon/analysis-results-cluster-01-crate",
+        "text": "Bioinformatics output catalogue of first cluster",
         "keyword": "catalogue"
     }
  ]
