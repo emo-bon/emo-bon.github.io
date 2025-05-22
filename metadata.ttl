@@ -77,7 +77,7 @@
     <https://data.emobon.embrc.eu/observatory-vb-crate/>
     ;
     dcat:catalog
-    <https://data.emobon.embrc.eu/metaGOflow-rocrates-dvc/>
+    <https://data.emobon.embrc.eu/analysis-results-cluster-01-crate/>
     .
 
     # 
@@ -257,9 +257,9 @@
         a dcat:Distribution ;
         dcat:accessURL <https://data.emobon.embrc.eu/observatory-vb-crate/> ;
     ].
-<https://data.emobon.embrc.eu/metaGOflow-rocrates-dvc/> rdf:type dcat:Catalog ;
-    dct:title "metaGOflow-rocrates-dvc" ;
-    dct:description "Bioinformatics output catalogue" ;
+<https://data.emobon.embrc.eu/analysis-results-cluster-01-crate/> rdf:type dcat:Catalog ;
+    dct:title "analysis-results-cluster-01" ;
+    dct:description "Bioinformatics output catalogue of first cluster" ;
     .
 # 
 # <https://doi.org/10.3897/arphapreprints.e146366> rdf:type schema:CreativeWork ;
