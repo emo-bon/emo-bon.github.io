@@ -5,6 +5,7 @@
         "crateurl" : "/observatory-aaot-crate/#./",
         "lodurl": "/observatory-aaot-crate/",
         "url" : "https://github.com/emo-bon/observatory-aaot-crate",
+        "description": "Sampling logsheets from the AAOT observatory in Italy.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -21,6 +22,7 @@
         "crateurl" : "/observatory-bergen-crate/#./",
         "lodurl": "/observatory-bergen-crate/",
         "url" : "https://github.com/emo-bon/observatory-bergen-crate",
+        "description": "Sampling logsheets from the Bergen observatory in Norway.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -36,6 +38,7 @@
         "name": "BPNS (Belgium)",
         "crateurl" : "/observatory-bpns-crate/#./",
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
+        "description": "Sampling logsheets from the BPNS observatory in Belgium.",
         "lodurl": "/observatory-bpns-crate/",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
@@ -53,6 +56,7 @@
         "crateurl" : "/observatory-esc68n-crate/#./",
         "lodurl": "/observatory-esc68n-crate/",
         "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
+        "description": "Sampling logsheets from the ESC68N observatory in Norway.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -69,6 +73,7 @@
         "crateurl" : "/observatory-emt21-crate/#./",
         "lodurl": "/observatory-emt21-crate/",
         "url" : "https://github.com/emo-bon/observatory-emt21-crate",
+        "description": "Sampling logsheets from the EMT21 observatory in Spain.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -85,6 +90,7 @@
         "crateurl" : "/observatory-hcmr-1-crate/#./",
         "lodurl": "/observatory-hcmr-1-crate/",
         "url" : "https://github.com/emo-bon/observatory-hcmr-1-crate",
+        "description": "Sampling logsheets from the HCMR-1 observatory in Crete, Greece.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -101,6 +107,7 @@
         "crateurl" : "/observatory-iuieilat-crate/#./",
         "lodurl": "/observatory-iuieilat-crate/",
         "url" : "https://github.com/emo-bon/observatory-iuieilat-crate",
+        "description": "Sampling logsheets from the IUIEilat observatory in Israel.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -117,6 +124,7 @@
         "crateurl" : "/observatory-lmo-crate/#./",
         "lodurl": "/observatory-lmo-crate/",
         "url" : "https://github.com/emo-bon/observatory-lmo-crate",
+        "description": "Sampling logsheets from the LMO observatory in Sweden.",
         "text": "Sampling Logsheets",
         "keyword": "observatory"
     },
@@ -126,6 +134,7 @@
         "crateurl" : "/observatory-mbal4-crate/#./",
         "lodurl": "/observatory-mbal4-crate/",
         "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
+        "description": "Sampling logsheets from the MBAL4 observatory in the United Kingdom.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -142,6 +151,7 @@
         "crateurl" : "/observatory-nrmcb-crate/#./",
         "lodurl": "/observatory-nrmcb-crate/",
         "url" : "https://github.com/emo-bon/observatory-nrmcb-crate",
+        "description": "Sampling logsheets from the NRMCB observatory in Italy.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -158,6 +168,7 @@
         "crateurl" : "/observatory-oob-crate/#./",
         "lodurl": "/observatory-oob-crate/",
         "url" : "https://github.com/emo-bon/observatory-oob-crate",
+        "description": "Sampling logsheets from the OOB observatory in France.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -174,6 +185,7 @@
         "crateurl" : "/observatory-osd74-crate/#./",
         "lodurl": "/observatory-osd74-crate/",
         "url" : "https://github.com/emo-bon/observatory-osd74-crate",
+        "description": "Sampling logsheets from the OSD74 observatory in Portugal.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -190,6 +202,7 @@
         "crateurl" : "/observatory-piegetxo-crate/#./",
         "lodurl": "/observatory-piegetxo-crate/",
         "url" : "https://github.com/emo-bon/observatory-piegetxo-crate",
+        "description": "Sampling logsheets from the PIEGetxo observatory in Spain.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -206,6 +219,7 @@
         "crateurl" : "/observatory-plenzia-crate#./",
         "lodurl": "/observatory-plenzia-crate/",
         "url" : "https://github.com/emo-bon/observatory-plenzia-crate",
+        "description": "Sampling logsheets from the Plenzia observatory in Spain.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -222,6 +236,7 @@
         "crateurl" : "/observatory-rformosa-crate/#./",
         "lodurl": "/observatory-rformosa-crate/",
         "url" : "https://github.com/emo-bon/observatory-rformosa-crate",
+        "description": "Sampling logsheets from the RFormosa observatory in Spain.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -238,6 +253,7 @@
         "crateurl" : "/observatory-roskogo-crate/#./",
         "lodurl": "/observatory-roskogo-crate/",
         "url" : "https://github.com/emo-bon/observatory-roskogo-crate",
+        "description": "Sampling logsheets from the ROSKOGO observatory in France.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -254,6 +270,7 @@
         "crateurl" : "/observatory-umf-crate/#./",
         "lodurl": "/observatory-umf-crate/",
         "url" : "https://github.com/emo-bon/observatory-umf-crate",
+        "description": "Sampling logsheets from the UMF observatory in Sweden.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
@@ -270,6 +287,7 @@
         "crateurl" : "/observatory-vb-crate/#./",
         "lodurl": "/observatory-vb-crate/",
         "url" : "https://github.com/emo-bon/observatory-vb-crate",
+        "description": "Sampling logsheets from the VB observatory in France.",
         "text": "Sampling Logsheets",
         "keyword": "observatory",
         "spatial": {
