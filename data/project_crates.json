@@ -6,7 +6,14 @@
         "lodurl": "/observatory-aaot-crate/",
         "url" : "https://github.com/emo-bon/observatory-aaot-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "45.314167",
+                "lon": "12.508333"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -15,7 +22,14 @@
         "lodurl": "/observatory-bergen-crate/",
         "url" : "https://github.com/emo-bon/observatory-bergen-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "60.269671",
+                "lon": "5.21957"
+            }
+        }
     },  
     {
         "icon": "fa fa-archive",
@@ -24,7 +38,14 @@
         "url" : "https://github.com/emo-bon/observatory-bpns-crate",
         "lodurl": "/observatory-bpns-crate/",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "51.433331",
+                "lon": "2.808331"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -33,7 +54,14 @@
         "lodurl": "/observatory-esc68n-crate/",
         "url" : "https://github.com/emo-bon/observatory-esc68n-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "68.925895",
+                "lon": "17.125619"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -42,7 +70,14 @@
         "lodurl": "/observatory-emt21-crate/",
         "url" : "https://github.com/emo-bon/observatory-emt21-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "42.201944",
+                "lon": "-8.7985"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -51,7 +86,14 @@
         "lodurl": "/observatory-hcmr-1-crate/",
         "url" : "https://github.com/emo-bon/observatory-hcmr-1-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "35.346621",
+                "lon": "25.278761"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -60,7 +102,14 @@
         "lodurl": "/observatory-iuieilat-crate/",
         "url" : "https://github.com/emo-bon/observatory-iuieilat-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "29.5",
+                "lon": "34.916667"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -78,7 +127,14 @@
         "lodurl": "/observatory-mbal4-crate/",
         "url" : "https://github.com/emo-bon/observatory-mbal4-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "50.25",
+                "lon": "-4.217"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -87,7 +143,14 @@
         "lodurl": "/observatory-nrmcb-crate/",
         "url" : "https://github.com/emo-bon/observatory-nrmcb-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "40.800139",
+                "lon": "14.25"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -96,7 +159,14 @@
         "lodurl": "/observatory-oob-crate/",
         "url" : "https://github.com/emo-bon/observatory-oob-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "42.484167",
+                "lon": "3.135278"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -105,7 +175,14 @@
         "lodurl": "/observatory-osd74-crate/",
         "url" : "https://github.com/emo-bon/observatory-osd74-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "41.146528",
+                "lon": "-8.666639"
+            }
+        }
     },  
     {
         "icon": "fa fa-archive",
@@ -114,7 +191,14 @@
         "lodurl": "/observatory-piegetxo-crate/",
         "url" : "https://github.com/emo-bon/observatory-piegetxo-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "43.338583",
+                "lon": "-3.014639"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -123,7 +207,14 @@
         "lodurl": "/observatory-plenzia-crate/",
         "url" : "https://github.com/emo-bon/observatory-plenzia-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "43.416151",
+                "lon": "-2.955807"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -132,7 +223,14 @@
         "lodurl": "/observatory-rformosa-crate/",
         "url" : "https://github.com/emo-bon/observatory-rformosa-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "37.005639",
+                "lon": "-7.96925"
+            }
+        }
     },
       {
         "icon": "fa fa-archive",
@@ -141,7 +239,14 @@
         "lodurl": "/observatory-roskogo-crate/",
         "url" : "https://github.com/emo-bon/observatory-roskogo-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "48.771667",
+                "lon": "-3.968333"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -150,7 +255,14 @@
         "lodurl": "/observatory-umf-crate/",
         "url" : "https://github.com/emo-bon/observatory-umf-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "63.530556",
+                "lon": "19.813611"
+            }
+        }
     },
     {
         "icon": "fa fa-archive",
@@ -159,6 +271,13 @@
         "lodurl": "/observatory-vb-crate/",
         "url" : "https://github.com/emo-bon/observatory-vb-crate",
         "text": "Sampling Logsheets",
-        "keyword": "observatory"
+        "keyword": "observatory",
+        "spatial": {
+            "type": "point",
+            "data": {
+                "lat": "43.683",
+                "lon": "7.317"
+            }
+        }
     }
 ]
