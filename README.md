@@ -39,7 +39,7 @@ Below the Data Packages, you can see
 - o Documents related to the data management of EMO BON 
 - o The various people responsible for the different parts of EMO BON
 <!--
-- o Results ... 
+- o Results ...
 -->
 
 **Using EMO BON data**
