@@ -82,7 +82,7 @@
     .
 
     # 
-    # schema:hasPart <https://doi.org/10.3897/arphapreprints.e146366>;
+    # schema:hasPart <https://bdj.pensoft.net/article/143585/>;
     # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf>;
     # 
@@ -384,10 +384,10 @@
     dct:description "Bioinformatics output catalogue of first cluster" ;
     .
 # 
-# <https://doi.org/10.3897/arphapreprints.e146366> rdf:type schema:CreativeWork ;
+# <https://bdj.pensoft.net/article/143585/> rdf:type schema:CreativeWork ;
 #     dct:title "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples" ;
 #     dct:description "First data paper from EMO BON (2025)" ;
-#     schema:url <https://doi.org/10.3897/arphapreprints.e146366> 
+#     schema:url <https://bdj.pensoft.net/article/143585/> 
 #     .
 # 
 # <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
