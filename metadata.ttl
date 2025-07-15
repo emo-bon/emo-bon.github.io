@@ -8,42 +8,42 @@
 @prefix schema: <http://schema.org/> .
 @prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
 
-<https://orcid.org>
-    a foaf:Person ;
-    foaf:name "EMO BON Secretariat" ;
-    foaf:mbox <mailto:emobon@embrc.eu> ;
-    .
-    
+
+
 <https://orcid.org/0000-0002-0202-8256>
     a foaf:Person ;
     foaf:name "Ioulia Santi" ;
     foaf:mbox <mailto:ioulia.santi@embrc.eu> ;
     .
-    
+
+
 <https://orcid.org/0000-0001-5106-6067>
     a foaf:Person ;
     foaf:name "Christina Pavloudi" ;
     foaf:mbox <mailto:christina.pavloudi@embrc.eu> ;
     .
-    
+
+
 <https://orcid.org/0000-0002-4927-979X>
     a foaf:Person ;
     foaf:name "Cymon Cox" ;
     foaf:mbox <mailto:cymon@ualg.pt> ;
     .
-    
+
+
 <https://orcid.org/0000-0002-5911-1536>
     a foaf:Person ;
     foaf:name "Katrina Exter" ;
     foaf:mbox <mailto:katrina.exter@vliz.be> ;
     .
-    
+
+
 <https://orcid.org/0000-0002-9648-6484>
     a foaf:Person ;
     foaf:name "Marc Portier" ;
     foaf:mbox <mailto:marc.portier@vliz.be> ;
     .
-    
+
 
 
 <https://data.emobon.embrc.eu> rdf:type foaf:Project, dcat:Catalog ;
