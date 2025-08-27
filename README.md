@@ -8,7 +8,7 @@ Its primary aim is to ensure steady, continuous generation of ‘baseline’ dat
 
 EMO BON collects samples from the water column, soft substrates, and hard substrates, aiming to allow researchers to explore marine diversity in different habitats. It is based around a network of currently 16 sites from Northern Norway to the tropical Red Sea in Israel. Standard operating procedures have been developed with the participating EMBRC partners and can be found in the [EMO BON Handbook](https://www.embrc.eu/newsroom/publications/european-marine-omics-biodiversity-observation-network-emo-bon-handbook).  
 
-Samples are collected at the participating observatories every two months (water and soft substrates) to a year (hard substrates) and processed according to the SOPs. Four replicas are collected: two for immediate use, and two are biobanked for future exploration. Samples are collected centrally in Paris every four-to-six months and shipped for DNA extraction and sequencing at a centralised facility. 
+Samples are collected at the participating observatories every two months (water and soft substrates) to a year (hard substrates) and processed according to the SOPs. Four replicas are collected: two for immediate use, and two are biobanked for future exploration. Samples are collected centrally in Paris every four-to-six months and shipped for DNA extraction and sequencing at a centralised facility.
 
 **EMO BON data**
 

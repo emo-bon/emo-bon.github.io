@@ -1,0 +1,397 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix da: <https://open-vocabularies.vliz.be/dmbonassistant#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix schema: <http://schema.org/> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+
+
+
+<https://orcid.org/0000-0002-0202-8256>
+    a foaf:Person ;
+    foaf:name "Ioulia Santi" ;
+    foaf:mbox <mailto:ioulia.santi@embrc.eu> ;
+    .
+
+
+<https://orcid.org/0000-0001-5106-6067>
+    a foaf:Person ;
+    foaf:name "Christina Pavloudi" ;
+    foaf:mbox <mailto:christina.pavloudi@embrc.eu> ;
+    .
+
+
+<https://orcid.org/0000-0002-4927-979X>
+    a foaf:Person ;
+    foaf:name "Cymon Cox" ;
+    foaf:mbox <mailto:cymon@ualg.pt> ;
+    .
+
+
+<https://orcid.org/0000-0002-5911-1536>
+    a foaf:Person ;
+    foaf:name "Katrina Exter" ;
+    foaf:mbox <mailto:katrina.exter@vliz.be> ;
+    .
+
+
+<https://orcid.org/0000-0002-9648-6484>
+    a foaf:Person ;
+    foaf:name "Marc Portier" ;
+    foaf:mbox <mailto:marc.portier@vliz.be> ;
+    .
+
+
+
+<https://data.emobon.embrc.eu> rdf:type foaf:Project, dcat:Catalog ;
+    dct:title "European Marine Omics Biodiversity Observation Network" ;
+    foaf:name "emobon" ;
+    dct:description "European Marine Omics Biodiversity Observation Network, A long-term omics observatory of marine biodiversity and ecosystems supporting policy needs and sustainable use of marine biological resources." ;
+    foaf:logo <https://data.emobon.embrc.eu/img/emobon_logo.png> ;
+    schema:mainEntityOfPage <https://data.emobon.embrc.eu> ;
+    foaf:homepage <https://data.emobon.embrc.eu> ;
+    dcat:dataset 
+    </sequencing-profile>,
+    </observatory-profile/draft>,
+    </analysis-results-profile/draft>,
+     
+    <https://data.emobon.embrc.eu/observatory-aaot-crate/>,
+    <https://data.emobon.embrc.eu/observatory-bergen-crate/>,
+    <https://data.emobon.embrc.eu/observatory-bpns-crate/>,
+    <https://data.emobon.embrc.eu/observatory-esc68n-crate/>,
+    <https://data.emobon.embrc.eu/observatory-emt21-crate/>,
+    <https://data.emobon.embrc.eu/observatory-hcmr-1-crate/>,
+    <https://data.emobon.embrc.eu/observatory-iuieilat-crate/>,
+    <https://data.emobon.embrc.eu/observatory-lmo-crate/>,
+    <https://data.emobon.embrc.eu/observatory-mbal4-crate/>,
+    <https://data.emobon.embrc.eu/observatory-nrmcb-crate/>,
+    <https://data.emobon.embrc.eu/observatory-oob-crate/>,
+    <https://data.emobon.embrc.eu/observatory-osd74-crate/>,
+    <https://data.emobon.embrc.eu/observatory-piegetxo-crate/>,
+    <https://data.emobon.embrc.eu/observatory-plenzia-crate/>,
+    <https://data.emobon.embrc.eu/observatory-rformosa-crate/>,
+    <https://data.emobon.embrc.eu/observatory-roskogo-crate/>,
+    <https://data.emobon.embrc.eu/observatory-umf-crate/>,
+    <https://data.emobon.embrc.eu/observatory-vb-crate/>
+    ;
+    dcat:catalog
+    <https://data.emobon.embrc.eu/analysis-results-cluster-01-crate/>
+    .
+
+    # 
+    # schema:hasPart <https://bdj.pensoft.net/article/143585/>;
+    # 
+    # schema:hasPart <https://repository.oceanbestpractices.org/bitstream/handle/11329/1738/EMO_BON_Handbook_April_2021.pdf>;
+    # 
+    # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
+    # 
+    # schema:hasPart <https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full>;
+    # 
+    # schema:hasPart <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054>;
+    # 
+<https://data.emobon.embrc.eu/img/emobon_logo.png> rdf:type foaf:Image 
+    .
+
+</observatory-aaot-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "AAOT (Italy)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the AAOT observatory in Italy." ;
+    schema:item <https://github.com/emo-bon/observatory-aaot-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(12.508333 45.314167)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-aaot-crate/> ;
+    ].
+</observatory-bergen-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "Bergen (Norway)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the Bergen observatory in Norway." ;
+    schema:item <https://github.com/emo-bon/observatory-bergen-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(5.21957 60.269671)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-bergen-crate/> ;
+    ].
+</observatory-bpns-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "BPNS (Belgium)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the BPNS observatory in Belgium." ;
+    schema:item <https://github.com/emo-bon/observatory-bpns-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(2.808331 51.433331)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-bpns-crate/> ;
+    ].
+</observatory-esc68n-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "ESC68N (Norway)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the ESC68N observatory in Norway." ;
+    schema:item <https://github.com/emo-bon/observatory-esc68n-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(17.125619 68.925895)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-esc68n-crate/> ;
+    ].
+</observatory-emt21-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "EMT21 (Spain)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the EMT21 observatory in Spain." ;
+    schema:item <https://github.com/emo-bon/observatory-emt21-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-8.7985 42.201944)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-emt21-crate/> ;
+    ].
+</observatory-hcmr-1-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "HCMR-1 (Crete)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the HCMR-1 observatory in Crete, Greece." ;
+    schema:item <https://github.com/emo-bon/observatory-hcmr-1-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(25.278761 35.346621)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-hcmr-1-crate/> ;
+    ].
+</observatory-iuieilat-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "IUIEilat (Israel)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the IUIEilat observatory in Israel." ;
+    schema:item <https://github.com/emo-bon/observatory-iuieilat-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(34.916667 29.5)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-iuieilat-crate/> ;
+    ].
+</observatory-lmo-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "LMO (Sweden)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the LMO observatory in Sweden." ;
+    schema:item <https://github.com/emo-bon/observatory-lmo-crate> ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-lmo-crate/> ;
+    ].
+</observatory-mbal4-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "MBAL4 (United Kingdom)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the MBAL4 observatory in the United Kingdom." ;
+    schema:item <https://github.com/emo-bon/observatory-mbal4-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-4.217 50.25)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-mbal4-crate/> ;
+    ].
+</observatory-nrmcb-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "NRMCB (Italy)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the NRMCB observatory in Italy." ;
+    schema:item <https://github.com/emo-bon/observatory-nrmcb-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(14.25 40.800139)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-nrmcb-crate/> ;
+    ].
+</observatory-oob-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "OOB (France)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the OOB observatory in France." ;
+    schema:item <https://github.com/emo-bon/observatory-oob-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(3.135278 42.484167)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-oob-crate/> ;
+    ].
+</observatory-osd74-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "OSD74 (Portugal)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the OSD74 observatory in Portugal." ;
+    schema:item <https://github.com/emo-bon/observatory-osd74-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-8.666639 41.146528)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-osd74-crate/> ;
+    ].
+</observatory-piegetxo-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "PIEGetxo (Spain)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the PIEGetxo observatory in Spain." ;
+    schema:item <https://github.com/emo-bon/observatory-piegetxo-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-3.014639 43.338583)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-piegetxo-crate/> ;
+    ].
+</observatory-plenzia-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "Plenzia (Spain)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the Plenzia observatory in Spain." ;
+    schema:item <https://github.com/emo-bon/observatory-plenzia-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-2.955807 43.416151)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-plenzia-crate/> ;
+    ].
+</observatory-rformosa-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "RFormosa observatory" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the RFormosa observatory in Spain." ;
+    schema:item <https://github.com/emo-bon/observatory-rformosa-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-7.96925 37.005639)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-rformosa-crate/> ;
+    ].
+</observatory-roskogo-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "ROSKOGO observatory" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the ROSKOGO observatory in France." ;
+    schema:item <https://github.com/emo-bon/observatory-roskogo-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(-3.968333 48.771667)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-roskogo-crate/> ;
+    ].
+</observatory-umf-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "UMF (Sweden)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the UMF observatory in Sweden." ;
+    schema:item <https://github.com/emo-bon/observatory-umf-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(19.813611 63.530556)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-umf-crate/> ;
+    ].
+</observatory-vb-crate/> rdf:type dcat:Dataset, schema:CreativeWork ;
+    dct:title "VB (France)" ;
+    dct:description "Sampling Logsheets" ;
+    dct:description "Sampling logsheets from the VB observatory in France." ;
+    schema:item <https://github.com/emo-bon/observatory-vb-crate> ;
+    
+    dct:spatial [
+        a dct:Location ;
+        dcat:bbox """POINT(7.317 43.683)"""^^geosparql:wktLiteral ;
+        ] ;
+    
+    dcat:distribution [
+        a dcat:Distribution ;
+        dcat:accessURL <https://data.emobon.embrc.eu/observatory-vb-crate/> ;
+    ].
+<https://data.emobon.embrc.eu/analysis-results-cluster-01-crate/> rdf:type dcat:Catalog ;
+    dct:title "analysis-results-cluster-01" ;
+    dct:description "Bioinformatics output catalogue of first cluster" ;
+    .
+# 
+# <https://bdj.pensoft.net/article/143585/> rdf:type schema:CreativeWork ;
+#     dct:title "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples" ;
+#     dct:description "First data paper from EMO BON (2025)" ;
+#     schema:url <https://bdj.pensoft.net/article/143585/> 
+#     .
+# 
+# <https://repository.oceanbestpractices.org/bitstream/handle/11329/1738/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
+#     dct:title "EMO BON Handbook (2021)" ;
+#     dct:description "Note hat the latest version can always be found on https://www.embrc.eu/documents-and-resources/" ;
+#     schema:url <https://repository.oceanbestpractices.org/bitstream/handle/11329/1738/EMO_BON_Handbook_April_2021.pdf> 
+#     .
+# 
+# <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> rdf:type schema:CreativeWork ;
+#     dct:title "EMO BON Data Management Plan (2022)" ;
+#     dct:description "Note that the latest version can always be found on https://www.embrc.eu/documents-and-resources/" ;
+#     schema:url <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf> 
+#     .
+# 
+# <https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full> rdf:type schema:CreativeWork ;
+#     dct:title "European marine omics biodiversity observation network: a strategic outline for the implementation of omics approaches in ocean observation" ;
+#     dct:description "Position paper describing what EMO BON is and how it operates (2023)" ;
+#     schema:url <https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1118120/full> 
+#     .
+# 
+# <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054> rdf:type schema:CreativeWork ;
+#     dct:title "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data" ;
+#     dct:description "Describine this bioinformatics workflow for analyses of metagenomic data (2023)" ;
+#     schema:url <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054> 
+#     .
+# 
