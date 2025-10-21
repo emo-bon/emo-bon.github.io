@@ -92,6 +92,8 @@
     # 
     # schema:hasPart <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054>;
     # 
+    # schema:hasPart <https://doi.org/10.1016/j.marpolbul.2025.118545>;
+    # 
 <https://data.emobon.embrc.eu/img/emobon_logo.png> rdf:type foaf:Image 
     .
 
@@ -391,7 +393,13 @@
 # 
 # <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054> rdf:type schema:CreativeWork ;
 #     dct:title "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data" ;
-#     dct:description "Describine this bioinformatics workflow for analyses of metagenomic data (2023)" ;
+#     dct:description "Describing this bioinformatics workflow for analyses of metagenomic data (2023)" ;
 #     schema:url <https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054> 
+#     .
+# 
+# <https://doi.org/10.1016/j.marpolbul.2025.118545> rdf:type schema:CreativeWork ;
+#     dct:title "ARMS in ports: monitoring non-indigenous species through Autonomous Reef Monitoring Structures" ;
+#     dct:description "Autonomous Reef Monitoring Structures (ARMS) deployed in a commercial harbor and a touristic marina in the northern Adriatic Sea over one year revealed distinct benthic and non-indigenous species (NIS) communities, with the marina hosting higher numbers of both native and NIS due to differing environmental conditions, port complexity, and economic activities, indicating ARMS as an efficient tool for monitoring NIS, particularly in spring and across varying urbanization levels." ;
+#     schema:url <https://doi.org/10.1016/j.marpolbul.2025.118545> 
 #     .
 # 
