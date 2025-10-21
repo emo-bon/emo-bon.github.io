@@ -24,8 +24,14 @@
     },
     {
         "title": "metaGOflow: a workflow for the analysis of marine Genomic Observatories shotgun metagenomics data",
-        "text": "Describine this bioinformatics workflow for analyses of metagenomic data (2023)",
+        "text": "Describing this bioinformatics workflow for analyses of metagenomic data (2023)",
         "img": "/img/publications/4.jpg",
         "link": "https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giad078/7321054"
+    },
+    {
+        "title": "ARMS in ports: monitoring non-indigenous species through Autonomous Reef Monitoring Structures",
+        "text": "Autonomous Reef Monitoring Structures (ARMS) deployed in a commercial harbor and a touristic marina in the northern Adriatic Sea over one year revealed distinct benthic and non-indigenous species (NIS) communities, with the marina hosting higher numbers of both native and NIS due to differing environmental conditions, port complexity, and economic activities, indicating ARMS as an efficient tool for monitoring NIS, particularly in spring and across varying urbanization levels.",
+        "img": "/img/publications/4.jpg",
+        "link": "https://doi.org/10.1016/j.marpolbul.2025.118545"
     }
 ]
