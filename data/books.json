@@ -5,11 +5,11 @@
     },
     {
         "name": "EMO-BON metadata instructions",
-        "url": "https://github.com/emo-bon/emo-bon.github.io/blob/main/data/docs/EMO_BON_metadata_instructions.pdf"
+        "url": "/assets/EMO_BON_metadata_instructions.pdf"
     },
     {
         "name": "Updated EMO-BON metadata instructions",
-        "url": "https://github.com/emo-bon/emo-bon.github.io/blob/main/data/docs/EMO_BON_metadata_instructions_updated.pdf"
+        "url": "/assets/EMO_BON_metadata_instructions_updated.pdf"
     }
 ]
 
