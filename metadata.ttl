@@ -82,6 +82,8 @@
     .
 
     # 
+    # schema:hasPart <https://bdj.pensoft.net/article/178484/>;
+    # 
     # schema:hasPart <https://bdj.pensoft.net/article/143585/>;
     # 
     # schema:hasPart <https://repository.oceanbestpractices.org/bitstream/handle/11329/1738/EMO_BON_Handbook_April_2021.pdf>;
@@ -366,6 +368,12 @@
     dct:title "analysis-results-cluster-01" ;
     dct:description "Bioinformatics output catalogue of first cluster" ;
     .
+# 
+# <https://bdj.pensoft.net/article/178484/> rdf:type schema:CreativeWork ;
+#     dct:title "Next release of the European Marine Omics Biodiversity Observation Network (EMO BON) shotgun metagenomic data from water and sediment samples (Release 2)" ;
+#     dct:description "Second data paper from EMO BON (2026)" ;
+#     schema:url <https://bdj.pensoft.net/article/178484/> 
+#     .
 # 
 # <https://bdj.pensoft.net/article/143585/> rdf:type schema:CreativeWork ;
 #     dct:title "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples" ;
