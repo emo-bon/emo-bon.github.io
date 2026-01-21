@@ -86,6 +86,8 @@
     # 
     # schema:hasPart <https://bdj.pensoft.net/article/143585/>;
     # 
+    # schema:hasPart <https://www.embrc.eu/documents/2024.04_EMOBON-Handbook_FINAL.pdf>;
+    # 
     # schema:hasPart <https://repository.oceanbestpractices.org/bitstream/handle/11329/1738/EMO_BON_Handbook_April_2021.pdf>;
     # 
     # schema:hasPart <https://www.embrc.eu/sites/default/files/publications/EMO_BON_Data_Management_Plan.pdf>;
@@ -379,6 +381,12 @@
 #     dct:title "First release of the European marine omics biodiversity observation network (EMO BON) shotgun metagenomics data from water and sediment samples" ;
 #     dct:description "First data paper from EMO BON (2025)" ;
 #     schema:url <https://bdj.pensoft.net/article/143585/> 
+#     .
+# 
+# <https://www.embrc.eu/documents/2024.04_EMOBON-Handbook_FINAL.pdf> rdf:type schema:CreativeWork ;
+#     dct:title "EMO BON Handbook (2024)" ;
+#     dct:description "Updated version of the EMO BON Handbook. Note hat the latest version can always be found on https://www.embrc.eu/documents-and-resources/" ;
+#     schema:url <https://www.embrc.eu/documents/2024.04_EMOBON-Handbook_FINAL.pdf> 
 #     .
 # 
 # <https://repository.oceanbestpractices.org/bitstream/handle/11329/1738/EMO_BON_Handbook_April_2021.pdf> rdf:type schema:CreativeWork ;
