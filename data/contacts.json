@@ -59,5 +59,48 @@
           "name": "Flander's Marine Institute (VLIZ)",
           "url": "https://vliz.be/"
        }
+    },
+    {
+      "img": "img/contacts/embrc.jpg",
+      "name": "Hanneloor Heynderickx",
+      "job": "EMO BON Belgium (BPNS)",
+      "email": "hanneloor.heynderickx@vliz.be",
+      "affiliation": {
+          "name": "Flander's Marine Institute (VLIZ)",
+          "url": "https://vliz.be/"
+       }
+    },
+    {
+      "img": "img/contacts/embrc.jpg",
+      "name": "Bruno Louro",
+      "job": "EMO BON Portugal (OSD74, RFORMOSA)",
+      "email": "blouro@ualg.pt",
+      "ORCID": "0000-0001-8164-581X",
+      "affiliation": {
+          "name": "CCMAR",
+          "url": "https://ccmar.ualg.pt/"
+      }
+    },
+    {
+      "img": "img/contacts/embrc.jpg",
+      "name": "Laura Kauppi",
+      "job": "EMO BON Finland (TZS_STOR)",
+      "email": "laura.kauppi@helsinki.fi",
+      "ORCID": "0000-0002-3620-8095",
+      "affiliation": {
+          "name": "University of Helsinki",
+          "url": "https://www.helsinki.fi/en"
+      }
+    },
+    {
+      "img": "img/contacts/embrc.jpg",
+      "name": "Raffaella Casotti",
+      "job": "EMO BON Italy (AAOT, NRMCB)",
+      "email": "raffaella.casotti@szn.it",
+      "ORCID": "0000-0002-9876-4601",
+      "affiliation": {
+          "name": "Stazione Zoologica Anton Dohrn",
+          "url": "https://www.szn.it/"
+      }
     }
 ]
