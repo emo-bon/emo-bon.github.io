@@ -46,6 +46,28 @@
 
 
 
+<https://orcid.org/0000-0001-8164-581X>
+    a foaf:Person ;
+    foaf:name "Bruno Louro" ;
+    foaf:mbox <mailto:blouro@ualg.pt> ;
+    .
+
+
+<https://orcid.org/0000-0002-3620-8095>
+    a foaf:Person ;
+    foaf:name "Laura Kauppi" ;
+    foaf:mbox <mailto:laura.kauppi@helsinki.fi> ;
+    .
+
+
+<https://orcid.org/0000-0002-9876-4601>
+    a foaf:Person ;
+    foaf:name "Raffaella Casotti" ;
+    foaf:mbox <mailto:raffaella.casotti@szn.it> ;
+    .
+
+
+
 <https://data.emobon.embrc.eu> rdf:type foaf:Project, dcat:Catalog ;
     dct:title "European Marine Omics Biodiversity Observation Network" ;
     foaf:name "emobon" ;
